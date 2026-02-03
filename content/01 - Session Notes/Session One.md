@@ -1,6 +1,6 @@
 ---
 title: Session One
-description: session-one
+description: Notes from session one.
 tags:
   - session-notes
 date: 2026-01-31
@@ -83,7 +83,7 @@ publish: true
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
 	- underlined is the entry for [[Void Matter]], a vial of which has gone missing
-- She gets into the personal office, where she finds a [[cube]] \#mycube
+- She gets into the personal office, where she finds a [[cube]] (hashtag mycube)
 - She meets some researchers & gets some information about the void:
 	1. It moves around - maps need to be updated constantly
 	2. The first layer is like the Underdark, with fucked up spiders

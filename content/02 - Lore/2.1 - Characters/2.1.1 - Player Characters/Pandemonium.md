@@ -1,14 +1,13 @@
 ---
 name: Pandemonium
 title: Pandemonium
-description: pan-character
 tags:
   - player-character
 creation date: 1970-01-01 01:00
 modification date: Tuesday 3rd February 2026 11:40:27
 publish: true
 ---
-# `=this.name`
+# Pandemonium
 > [!caption|center text-center clean c-p-med]
 >![[pandemonium.png|300]]
 >*Quote*

@@ -1,5 +1,4 @@
 ---
-name: 
 title: Void Matter
 description: Goo<3
 tags:
