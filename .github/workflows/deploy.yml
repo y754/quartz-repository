@@ -5,7 +5,7 @@ on:
     branches:
       - v4
 env:
-  THEME_NAME: its-theme.ttrph-pathfinder-remastered
+  THEME_NAME: its-theme.ttrpg-pathfinder-remastered
 
 permissions:
   contents: read
@@ -17,8 +17,6 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
-- name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
   build:
     runs-on: ubuntu-22.04
     steps:
@@ -30,6 +28,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Fetch Quartz Theme
+        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
