@@ -7,13 +7,13 @@ tags:
 publish: true
 ---
 # Homepage
-## Player Characters
+## [[2.1.1 - Player Characters/|Player Characters]]
 - [[Pandemonium]]
 - [[Fletcher]]
 - [[Fugue]]
 - [[Malachi]]
 
-## Sessions
+## [[01 - Session Notes/|Session Notes]]
 [[Session One]]
 
-## Lore
+## [[02 - Lore/|Lore]]
