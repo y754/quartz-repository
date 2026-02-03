@@ -43,6 +43,9 @@ export const defaultContentPageLayout: PageLayout = {
             folderClickBehavior: "collapse",
             folderDefaultState: "open",
             useSavedState: true
+            sortFn: (a, b) => {
+                return a.displayName.localeCompare (b.displayName)
+            },
           })
   ],
   right: [
