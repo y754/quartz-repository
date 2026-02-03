@@ -3,7 +3,7 @@ publish: true
 title: Session One
 description: Notes from session one.
 created: 2026-01-31
-modified: 2026-02-03T19:52:26.299+00:00
+modified: 2026-02-03T20:01:10.343+00:00
 tags:
   - session-notes
   - complete
@@ -34,7 +34,7 @@ cssclasses: ""
 - we register with the receptionist and head through into the Guildhall
 - in the Guildhall:
 	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Juno Lux]], recently returned from his own expedition down the hole
-	- [[Kivia Rosenz,]] head of the Crownguard
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Kivia Rosenz]], head of the Crownguard
 	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Tiel]], halfling also recently returned from an expedition
 	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros]], human bard
 	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston Dzemael]], younger son of [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Lord Renoir\|Renoir Dzemael]], another recent returnee
