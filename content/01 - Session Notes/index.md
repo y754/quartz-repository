@@ -1,0 +1,13 @@
+---
+title: Session Notes
+description: session-notes-index
+tags:
+  - session-notes
+  - index
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 11:58:48
+---
+```dataview
+LIST from "01 - Session Notes" AND !#index
+SORT date ASC
+```
