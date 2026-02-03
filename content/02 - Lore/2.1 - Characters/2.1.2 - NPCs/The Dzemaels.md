@@ -10,5 +10,11 @@ publish: true
 ---
 #  The Dzemael Family
 ## Lord Renoir
+- having god's worst day
 ## Lady Ameliance
+- at the House of Grief
+- that's probably fine
 ## Pariston
+- piece of shit wuppydog
+- went down the hole shortly before his older brother was assassinated
+- fled back up, dragging [[Tiel]] with him, during a raid on Luden's Rest
