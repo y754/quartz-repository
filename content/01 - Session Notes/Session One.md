@@ -3,7 +3,7 @@ publish: true
 title: Session One
 description: Notes from session one.
 created: 2026-01-31
-modified: 2026-02-03T16:43:11.000+00:00
+modified: 2026-02-03T17:48:19.934+00:00
 tags:
   - session-notes
 cssclasses: ""
@@ -79,8 +79,8 @@ cssclasses: ""
 - Mal leaves Shiax the rest of her money
 ## Snooping:)
 >[!infobox|right]
-> # Reminders
-> - Ask about the contact who was looking for voidstuff
+> ### Reminders
+> - Ask about the contact who was looking for Voidstuff
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
 	- underlined is the entry for [[02 - Lore/2.2 The Void/Void Matter]], a vial of which has gone missing
