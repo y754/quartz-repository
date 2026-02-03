@@ -2,7 +2,7 @@
 publish: true
 title: Fletcher
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T17:38:12.462+00:00
+modified: 2026-02-03T19:10:58.539+00:00
 tags:
   - player-character
 cssclasses: ""
