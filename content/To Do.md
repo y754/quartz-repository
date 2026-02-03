@@ -1,3 +1,0 @@
-- [ ] finish writing up descriptions
-- [ ] fill out character pages
-- [ ] yayyyy
