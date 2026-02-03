@@ -4,6 +4,7 @@ description: Homepage
 tags: 
  - home
  - index
+publish: true
 ---
 # Homepage
 ## Player Characters
