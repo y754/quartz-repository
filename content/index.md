@@ -1,8 +1,9 @@
 ---
 publish: true
 title: Homepage
+description: Homepage
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T17:23:18.609+00:00
+modified: 2026-02-03T17:36:58.632+00:00
 tags:
   - home
   - index
