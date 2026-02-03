@@ -3,7 +3,7 @@ publish: true
 title: Session One
 description: Notes from session one.
 created: 2026-01-31
-modified: 2026-02-03T19:44:01.425+00:00
+modified: 2026-02-03T19:46:09.559+00:00
 tags:
   - session-notes
   - complete
