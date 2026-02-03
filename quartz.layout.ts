@@ -39,20 +39,13 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
           Component.Explorer({
-            title: "Contents", // title of the explorer component
-            folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-            folderDefaultState: "open", // default state of folders ("collapsed" or "open")
-            useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-  // omitted but shown later
-            sortFn: ...,
-            filterFn: ...,
-            mapFn: ...,
-  // what order to apply functions in
-            order: ["filter", "map", "sort"],
-})
+            title: "Contents",
+            folderClickBehavior: "collapse",
+            folderDefaultState: "open",
+            useSavedState: true
+          })
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
