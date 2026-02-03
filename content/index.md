@@ -11,4 +11,4 @@ tags: #home
 - [[Malachi]]
 
 ## Sessions
-[[01 - Voidquest]]
+[[Session One]]
