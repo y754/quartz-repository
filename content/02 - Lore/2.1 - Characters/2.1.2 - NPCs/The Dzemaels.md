@@ -18,4 +18,4 @@ cssclasses: ""
 ## Pariston
 - piece of shit wuppydog
 - went down the hole shortly before his older brother was assassinated
-- fled back up, dragging [[Tiel]] with him, during a raid on Luden's Rest
+- fled back up, dragging [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Tiel]] with him, during a raid on Luden's Rest
