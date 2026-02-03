@@ -3,6 +3,7 @@ title: Homepage
 description: Homepage
 tags: 
  - home
+ - index
 ---
 # Homepage
 ## Player Characters
@@ -13,3 +14,5 @@ tags:
 
 ## Sessions
 [[Session One]]
+
+## Lore
