@@ -11,14 +11,14 @@ cssclasses: ""
 ---
 
 >[!column|2 clean no-t]
->>  | Session | Date |
-> > | ------- | ---- |
+>>  | Session                                            | Date             |
+> > | -------------------------------------------------- | ---------------- |
+> > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
 > > 
 >
 >>  | Upcoming                                           | Date              |
 > > | -------------------------------------------------- | ----------------- |
 > > | [[01 - Session Notes/Session Two\|Session Two]] | February 07, 2025 |
-> > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026  |
 > > 
 # Player Characters
 - [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium\|Pandemonium]]
