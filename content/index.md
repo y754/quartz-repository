@@ -9,10 +9,6 @@ tags: #home
 - [[Fletcher]]
 - [[Fugue]]
 - [[Malachi]]
-## Sessions
-```dataview
-LIST from "01 - Session Notes"
-SORT date ASC
-```
 
+## Sessions
 [[01 - Voidquest]]
