@@ -3,22 +3,24 @@ publish: true
 title: Homepage
 description: Homepage
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T20:46:24.538+00:00
+modified: 2026-02-03T20:56:56.827+00:00
 tags:
   - home
   - index
 cssclasses: ""
 ---
 
-| Session                                            | Date             |
-| -------------------------------------------------- | ---------------- |
-| [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
+>[!note|clean no-t]
+> | Session                                            | Date             |
+> | -------------------------------------------------- | ---------------- |
+> | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
+> 
 
-
-| Upcoming                                           | Date              |
-| -------------------------------------------------- | ----------------- |
-| [[01 - Session Notes/Session Two\|Session Two]] | February 07, 2025 |
-
+>[!note|clean no-t]
+> | Upcoming                                           | Date              |
+> | -------------------------------------------------- | ----------------- |
+> | [[01 - Session Notes/Session Two\|Session Two]] | February 07, 2025 |
+> 
 
 # Player Characters
 - [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium\|Pandemonium]]
