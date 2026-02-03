@@ -11,9 +11,9 @@ cssclasses: ""
 ---
 
 >[!column|2 clean no-t]
->>  | Session                                            | Date             |
-> > | -------------------------------------------------- | ---------------- |
-> > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
+>>  | Session                                            | Date                               |
+> > | -------------------------------------------------- | ---------------------------------- |
+> > | [[01 - Session Notes/Session One\|Session One]] | <ul><li>January 31, 2026</li></ul> |
 > > 
 >
 >>  | Upcoming                                           | Date              |
