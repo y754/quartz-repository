@@ -1,11 +1,13 @@
 ---
+publish: true
 title: Tiel
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T15:34:08.000+00:00
 tags:
   - npc
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 15:33:50
-publish: true
+cssclasses: ""
 ---
+
 ## Description
 - halfling
 - coming down the hole with us yayy

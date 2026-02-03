@@ -1,10 +1,11 @@
 ---
+publish: true
 title: Session Notes
 description: List of notes from each session.
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T15:20:42.000+00:00
 tags:
   - session-notes
   - index
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:58:48
-publish: true
+cssclasses: ""
 ---

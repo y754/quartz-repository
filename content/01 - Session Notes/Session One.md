@@ -1,13 +1,14 @@
 ---
+publish: true
 title: Session One
 description: Notes from session one.
+created: 2026-01-31
+modified: 2026-02-03T14:43:12.000+00:00
 tags:
   - session-notes
-date: 2026-01-31
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:42:25
-publish: true
+cssclasses: ""
 ---
+
 # Character Introductions
 ## Pan
 - Sickly lilac skin, bleach-white horns
@@ -26,12 +27,12 @@ publish: true
 # Registration
 - we register with the receptionist and head through into the Guildhall
 - in the Guildhall:
-	- [[Juno Lux]], recently returned from his own expedition down the hole
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Juno Lux]], recently returned from his own expedition down the hole
 	- [[Kivia Rosenz,]] head of the Crownguard
-	- [[Tiel]], halfling also recently returned from an expedition
-	- [[Eros]], human bard
-	- [[The Dzemaels#Pariston|Pariston Dzemael]], younger son of [[The Dzemaels#Lord Renoir|Renoir Dzemael]], another recent returnee
-	- [[Riza]], red-eyed woman with scars
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Tiel]], halfling also recently returned from an expedition
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros]], human bard
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston Dzemael]], younger son of [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Lord Renoir\|Renoir Dzemael]], another recent returnee
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Riza]], red-eyed woman with scars
 - Pan goes and antagonises Kivia for a bit
 	- Notices Juno's eyes are animalistic
 	- Comes back and arm-wrestles Riza (and wins)
@@ -82,8 +83,8 @@ publish: true
 > - Ask about the contact who was looking for voidstuff
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
-	- underlined is the entry for [[Void Matter]], a vial of which has gone missing
-- She gets into the personal office, where she finds a [[cube]] (hashtag mycube)
+	- underlined is the entry for [[02 - Lore/2.2 - The Void/Void Matter]], a vial of which has gone missing
+- She gets into the personal office, where she finds a [[02 - Lore/2.4 - Items/Cube]] (hashtag mycube)
 - She meets some researchers & gets some information about the void:
 	1. It moves around - maps need to be updated constantly
 	2. The first layer is like the Underdark, with fucked up spiders

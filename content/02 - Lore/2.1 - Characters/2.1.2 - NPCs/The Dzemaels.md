@@ -1,13 +1,14 @@
 ---
+publish: true
 title: The Dzemaels
 description: NPCs in the Dzemael family.
-name: Dzemael
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T15:45:42.067+00:00
 tags:
   - npc
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 14:12:20
-publish: true
+cssclasses: ""
 ---
+
 #  The Dzemael Family
 ## Lord Renoir
 - having god's worst day
