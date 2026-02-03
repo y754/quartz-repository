@@ -78,8 +78,8 @@ publish: true
 - Mal leaves Shiax the rest of her money
 ## Snooping:)
 >[!infobox|right]
-> # Reminders
-> - Ask about the contact who was looking for voidstuff
+> ### Reminders
+> - Ask about the contact who was looking for Voidstuff
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
 	- underlined is the entry for [[Void Matter]], a vial of which has gone missing

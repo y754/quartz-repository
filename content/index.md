@@ -1,8 +1,10 @@
 ---
 title: Homepage
+description: Homepage
 tags: 
  - home
  - index
+publish: true
 ---
 # Player Characters
 ```dataview
