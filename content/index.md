@@ -1,7 +1,8 @@
 ---
 title: Homepage
 description: Homepage
-tags: #home
+tags: 
+ - home
 ---
 # Homepage
 ## Player Characters
