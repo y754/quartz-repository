@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-UK",
+    locale: "en-US",
     baseUrl: "y754.github.io/quartz-repository",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
