@@ -1,10 +1,12 @@
 ---
+publish: true
 title: Eros
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T17:18:37.630+00:00
 tags:
   - npc
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 17:18:25
-publish: true
+cssclasses: ""
 ---
+
 - human bard
 - seems niceys:)

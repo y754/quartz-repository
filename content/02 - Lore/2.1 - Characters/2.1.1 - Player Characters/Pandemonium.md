@@ -1,15 +1,16 @@
 ---
-name: Pandemonium
+publish: true
 title: Pandemonium
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T16:44:52.272+00:00
 tags:
   - player-character
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:40:27
-publish: true
+cssclasses: ""
 ---
+
 # Pandemonium
 > [!caption|center text-center clean c-p-med]
->![[pandemonium.png|300]]
+>![[pandemonium.png\|300]]
 >*Quote*
 >> | Race | Class |
 >> | --- | --- |
