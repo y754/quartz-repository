@@ -1,6 +1,7 @@
 ---
 draft: true
-title: Assets Index
+title: z - Assets
 tags:
  - index
+ - asset
 ---
