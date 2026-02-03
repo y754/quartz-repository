@@ -2,19 +2,13 @@
 publish: true
 title: Session One
 description: Notes from session one.
-created:
-  - 2026-01-31
-modified: 2026-02-03T20:13:49.462+00:00
+created: 2026-01-31
+modified: 2026-02-03T20:32:48.601+00:00
 tags:
   - session-notes
   - complete
 cssclasses: ""
 ---
-
->[!infobox|right wikipedia]
->| Session Number | Date |
->| - | - |
->| 1 | 2026-01-31T00:00:00.000+00:00 |
 
 # Character Introductions
 ## Pan
