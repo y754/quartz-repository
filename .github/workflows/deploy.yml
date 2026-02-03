@@ -5,7 +5,7 @@ on:
     branches:
       - v4
 env:
-  THEME_NAME: its-theme
+  THEME_NAME: its-theme.ttrph-pathfinder-remastered
 
 permissions:
   contents: read
