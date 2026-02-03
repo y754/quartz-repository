@@ -6,6 +6,7 @@ tags:
   - lore
 creation date: 1970-01-01 01:00
 modification date: Tuesday 3rd February 2026 11:45:51
+publish: true
 ---
 1. The Void moves around, rearranging itself, which makes it difficult to map
 2. Magic transportation doesn't work; no portals to the Abyss, no teleporting out

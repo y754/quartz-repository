@@ -6,7 +6,7 @@ tags:
   - faction
 creation date: 1970-01-01 01:00
 modification date: Tuesday 3rd February 2026 11:48:58
+publish: true
 ---
-# `=this.name`
 Lead by [[Sebastian]] Nosurname:)
 Fletcher is a member.

@@ -6,6 +6,7 @@ tags:
  - player-character
 creation date: <% tp.file.creation_date() %>
 modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+publish:
 ---
 # `=this.name`
 > [!caption|center text-center clean c-p-med]
