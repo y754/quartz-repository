@@ -2,8 +2,5 @@
 title: Lore
 tags:
  - index
+ - lore
 ---
-```dataview
-LIST from "02 - Lore" AND !#index
-SORT date ASC
-```
