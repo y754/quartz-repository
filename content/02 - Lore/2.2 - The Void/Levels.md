@@ -1,14 +1,12 @@
 ---
-publish: true
 title: Void Levels
 description: Levels of the Void.
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T14:45:33.000+00:00
 tags:
   - lore
-cssclasses: ""
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 11:45:51
+publish: true
 ---
-
 1. The Void moves around, rearranging itself, which makes it difficult to map
 2. Magic transportation doesn't work; no portals to the Abyss, no teleporting out
 3. The theory is that it's a series of different worlds stacked on top of each other

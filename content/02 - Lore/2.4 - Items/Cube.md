@@ -1,12 +1,11 @@
 ---
-publish: true
+name: Cube:)
 title: Cube:)
 description: sharran-cube
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T14:22:15.000+00:00
 tags:
   - lore
-cssclasses: ""
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 11:51:47
+publish: true
 ---
-
 my cube yayyy

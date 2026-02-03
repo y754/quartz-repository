@@ -1,15 +1,14 @@
 ---
-publish: true
+name: Malachi
 title: Malachi
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T14:56:22.000+00:00
 tags:
   - player-character
-cssclasses: ""
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 11:34:48
+publish: true
 ---
-
 > [!caption|center text-center clean c-p-med]
->![[z - Assets/malachi.png|300]]
+>![[malachi.png|300]]
 >> | Race | Class |
 >> | --- | --- |
 >> | Goliath | Rogue-Wizard |
