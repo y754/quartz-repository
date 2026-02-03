@@ -1,28 +1,47 @@
 ---
+publish: true
 title: Homepage
 description: Homepage
-tags: 
- - home
- - index
-publish: true
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T15:21:56.000+00:00
+tags:
+  - home
+  - index
+cssclasses: ""
 ---
+
 ## To Do
-![[To Do]]
-## [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/|Player Characters]]
-- [[Pandemonium]]
-- [[Fletcher]]
-- [[Fugue]]
-- [[Malachi]]
+- [ ] finish writing up descriptions
+- [ ] fill out character pages
+- [ ] yayyyy
+## [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/\|Player Characters]]
+- [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium]]
+- [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fletcher]]
+- [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fugue]]
+- [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Malachi]]
 
-## [[01 - Session Notes/|Session Notes]]
-```dataview
-TABLE WITHOUT ID file.link AS "Session", date AS "Date"
-FROM "01 - Session Notes" AND !#index
-SORT date ASC
-```
+## [[01 - Session Notes/\|Session Notes]]
+| Session                                            | Date             |
+| -------------------------------------------------- | ---------------- |
+| [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
 
-## [[02 - Lore/|Lore]]
-```dataview
-TABLE WITHOUT ID file.link AS "File"
-FROM "02 - Lore" AND !#index
-```
+
+## [[02 - Lore/\|Lore]]
+| File                                                                                 |
+| ------------------------------------------------------------------------------------ |
+| [[02 - Lore/2.4 - Items/Cube\|Cube]]                                              |
+| [[02 - Lore/2.3 - Luden's Rest/Diver's Guild\|Diver's Guild]]                     |
+| [[02 - Lore/2.3 - Luden's Rest/Apothecary's Guild\|Apothecary's Guild]]           |
+| [[02 - Lore/2.2 - The Void/Void Matter\|Void Matter]]                             |
+| [[02 - Lore/2.2 - The Void/Levels\|Levels]]                                       |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Tiel\|Tiel]]                            |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels\|The Dzemaels]]            |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Sebastian\|Sebastian]]                  |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Riza\|Riza]]                            |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Kivia Rosenz\|Kivia Rosenz]]            |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Juno Lux\|Juno Lux]]                    |
+| [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros\|Eros]]                            |
+| [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium\|Pandemonium]] |
+| [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Malachi\|Malachi]]         |
+| [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fugue\|Fugue]]             |
+| [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fletcher\|Fletcher]]       |

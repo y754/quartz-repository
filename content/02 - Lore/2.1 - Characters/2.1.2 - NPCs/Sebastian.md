@@ -1,13 +1,14 @@
 ---
+publish: true
 title: Sebastian Nosurname
 description: Sebby:)
-name: Sebastian
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T14:55:48.000+00:00
 tags:
   - npc
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 14:13:43
-publish: true
+cssclasses: ""
 ---
+
 #  Sebastian Nosurname
 ## Description
 - Head of the Apothecary's Guild yayyy

@@ -1,14 +1,15 @@
 ---
-name: Fugue
+publish: true
 title: Fugue
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-03T14:56:18.000+00:00
 tags:
   - player-character
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:41:13
-publish: true
+cssclasses: ""
 ---
+
 > [!caption|center text-center clean c-p-med]
->![[fugue.png|300]]
+>![[z - Assets/fugue.png|300]]
 >*Quote*
 >> | Race | Class |
 >> | --- | --- |
