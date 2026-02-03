@@ -1,7 +1,7 @@
 ---
 name:
 title: Void Levels
-description: void-levels
+description: Levels of the Void.
 tags:
   - lore
 creation date: 1970-01-01 01:00

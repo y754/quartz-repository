@@ -29,7 +29,7 @@ modification date: Tuesday 3rd February 2026 11:42:25
 	- [[Kivia Rosenz,]] head of the Crownguard
 	- [[Tiel]], halfling also recently returned from an expedition
 	- [[Eros]], human bard
-	- [[The Dzemaels#Pariston|Pariston Dzemael]], younger son of [[The Dzemaels#Renoir|Renoir Dzemael]], another recent returnee
+	- [[The Dzemaels#Pariston|Pariston Dzemael]], younger son of [[The Dzemaels#Lord Renoir|Renoir Dzemael]], another recent returnee
 	- [[Riza]], red-eyed woman with scars
 - Pan goes and antagonises Kivia for a bit
 	- Notices Juno's eyes are animalistic

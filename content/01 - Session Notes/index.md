@@ -1,6 +1,6 @@
 ---
 title: Session Notes
-description: session-notes-index
+description: List of notes from each session.
 tags:
   - session-notes
   - index
