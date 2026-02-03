@@ -1,5 +1,5 @@
 ---
-title: Lore Index
+title: Lore
 tags:
  - index
 publish: true
