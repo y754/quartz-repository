@@ -1,5 +1,11 @@
 ---
-date: 2025-01-31
+title: Session One
+description: session-one
+tags:
+  - session-notes
+date: 2026-01-31
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 11:42:25
 ---
 # Character Introductions
 ## Pan
@@ -75,7 +81,7 @@ date: 2025-01-31
 > - Ask about the contact who was looking for voidstuff
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
-	- underlined is the entry for [[Voidstuff|VOID MATTER]], a vial of which has gone missing
+	- underlined is the entry for [[Void Matter]], a vial of which has gone missing
 - She gets into the personal office, where she finds a [[cube]] \#mycube
 - She meets some researchers & gets some information about the void:
 	1. It moves around - maps need to be updated constantly

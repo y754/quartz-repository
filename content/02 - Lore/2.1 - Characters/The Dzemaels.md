@@ -1,3 +1,0 @@
-# Renoir
-
-# Lady Ameliance
