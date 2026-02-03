@@ -3,13 +3,23 @@ publish: true
 title: Homepage
 description: Homepage
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T18:05:41.741+00:00
+modified: 2026-02-03T18:35:13.607+00:00
 tags:
   - home
   - index
 cssclasses: ""
 ---
 
+>[!column|2 clean no-t]
+>>  | Session | Date |
+> > | ------- | ---- |
+> > 
+>
+>>  | Upcoming                                           | Date              |
+> > | -------------------------------------------------- | ----------------- |
+> > | [[01 - Session Notes/Session Two\|Session Two]] | February 07, 2025 |
+> > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026  |
+> > 
 # Player Characters
 - [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium\|Pandemonium]]
 - [[02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Malachi\|Malachi]]
