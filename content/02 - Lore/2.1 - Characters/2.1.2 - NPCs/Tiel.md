@@ -1,12 +1,10 @@
 ---
-publish: true
 title: Tiel
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-03T17:18:22.000+00:00
 tags:
   - npc
-cssclasses: ""
+creation date: 1970-01-01 01:00
+modification date: Tuesday 3rd February 2026 17:17:34
+publish: true
 ---
-
-- halfling, went down the hole on the last expedition & came back up during a raid with [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston]]
+- halfling, went down the hole on the last expedition & came back up during a raid with [[The Dzemaels#Pariston|Pariston]]
 - didn't want to come back?
