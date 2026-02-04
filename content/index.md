@@ -3,21 +3,20 @@ publish: true
 title: Homepage
 description: Homepage
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-04T10:23:46.609+00:00
+modified: 2026-02-04T10:31:36.013+00:00
 tags:
   - home
   - index
 cssclasses: ""
 ---
 
->[!column|2 clean no-t]
->>[!card|clean no-t]
+> [!caption|center text-center clean c-p-med]
 >> | Session                                            | Date             |
 > > | -------------------------------------------------- | ---------------- |
 > > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026 |
 > > 
->
->>[!card|clean no-t]
+
+> [!caption|center text-center clean c-p-med]
 >> | Upcoming                                           | Date              |
 > > | -------------------------------------------------- | ----------------- |
 > > | [[01 - Session Notes/Session Two\|Session Two]] | February 07, 2025 |
