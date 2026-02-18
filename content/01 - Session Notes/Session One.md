@@ -1,6 +1,9 @@
 ---
+publish: true
 title: Session One
 description: Notes from session one.
+created: 2026-01-31
+modified: 2026-02-18T10:04:46.453+00:00
 tags:
   - session-notes
   - complete
@@ -84,8 +87,8 @@ publish: true
 > - Ask about the contact who was looking for Voidstuff
 > - Should be getting a description of the previous expedition's reports
 - Mal goes through Venus's desk and finds a lot of documents, including a ledger with a bookmarked page detailing supplies from the apothecary's guild
-	- underlined is the entry for [[Void Matter]], a vial of which has gone missing
-- She gets into the personal office, where she finds a [[cube]] (hashtag mycube)
+	- underlined is the entry for [[02 - Lore/2.2 The Void/Void Matter]], a vial of which has gone missing
+- She gets into the personal office, where she finds a [[02 - Lore/2.4 Items/Cube]] (hashtag mycube)
 - She meets some researchers & gets some information about the void:
 	1. It moves around - maps need to be updated constantly
 	2. The first layer is like the Underdark, with fucked up spiders

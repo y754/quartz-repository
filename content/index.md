@@ -5,6 +5,11 @@ tags:
  - home
  - index
 publish: true
+title: index
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-05T18:00:28.000+00:00
+published: 2026-02-05T18:00:28.000+00:00
+cssclasses: ""
 ---
 > [!caption|center text-center clean c-p-med]
 >>```dataview
@@ -23,15 +28,15 @@ publish: true
 LIST FROM "02 - Lore/2.1 - Characters/2.1.1 - Player Characters" AND !#index
 ```
 
-# Lore
-```dataview
-LIST FROM "02 - Lore" AND !#index AND !#npc AND !#player-character
-```
 
-# NPCs
-```dataview
-LIST FROM "02 - Lore/2.1 - Characters/2.1.2 - NPCs" AND !#index
-```
-
-# To Do
-![[To Do]]
+- [ ] factions
+	- [ ] mercykillers
+	- [ ] harmonium
+	- [ ] senate & courts
+	- [ ] cult
+- [ ] sigil
+	- [ ] wards
+	- [ ] merchants
+- [ ] npcs
+- [ ] player characters
+- [ ] timeline
