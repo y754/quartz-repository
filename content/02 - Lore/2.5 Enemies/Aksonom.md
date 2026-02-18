@@ -1,11 +1,13 @@
 ---
+publish: true
 title: Aksonom
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-18T10:05:21.723+00:00
 tags:
   - enemy
-creation date: 1970-01-01 01:00
-modification date: Wednesday 18th February 2026 09:25:06
-publish: true
+cssclasses: ""
 ---
+
 # Description
 Giant crane-like creature with a long neck and beak.
 

@@ -1,12 +1,14 @@
 ---
+publish: true
 title: Oblivion Focus
 description: sharran-cube
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-18T10:12:36.185+00:00
 tags:
   - lore
-publish: true
+cssclasses: ""
 ---
+
 >[!caption|clean]
 >Artefact, Arcane focus. Requires attunement.
 

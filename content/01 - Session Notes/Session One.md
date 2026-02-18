@@ -1,15 +1,14 @@
 ---
 publish: true
 title: Session One
-description: Notes from session one.
 created: 2026-01-31
-modified: 2026-02-18T10:04:46.453+00:00
+modified: 2026-02-18T10:22:33.957+00:00
 tags:
   - session-notes
   - complete
-date: 2026-01-31
-publish: true
+cssclasses: ""
 ---
+
 >[!note|no-t no-i]
 >**Session date:** 31st January 2025
 
@@ -31,12 +30,12 @@ publish: true
 # Registration
 - we register with the receptionist and head through into the Guildhall
 - in the Guildhall:
-	- [[Juno Lux]], recently returned from his own expedition down the hole
-	- [[Kivia Rosenz]], head of the Crownguard
-	- [[Tiel]], halfling also recently returned from an expedition
-	- [[Eros]], human bard
-	- [[The Dzemaels#Pariston|Pariston Dzemael]], younger son of [[The Dzemaels#Lord Renoir|Renoir Dzemael]], another recent returnee
-	- [[Riza]], red-eyed woman with scars
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Juno Lux]], recently returned from his own expedition down the hole
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Kivia Rosenz]], head of the Crownguard
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Tiel]], halfling also recently returned from an expedition
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros]], human bard
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston Dzemael]], younger son of [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Lord Renoir\|Renoir Dzemael]], another recent returnee
+	- [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Riza]], red-eyed woman with scars
 - Pan goes and antagonises Kivia for a bit
 	- Notices Juno's eyes are animalistic
 	- Comes back and arm-wrestles Riza (and wins)

@@ -2,12 +2,13 @@
 publish: true
 title: Session Two
 created: 2025-02-14
-modified: 2026-02-18T10:00:43.419+00:00
+modified: 2026-02-18T10:22:27.783+00:00
 tags:
   - session-notes
-date: 2025-02-14
-publish: true
+  - complete
+cssclasses: ""
 ---
+
 >[!note|no-t no-i]
 >**Session date:** 14th February 2025
 
@@ -19,17 +20,17 @@ publish: true
 - Mal asks about Pan & Fugue's day; they're evasive.
 - They ask about Mal's day; she's evasive.
 - Fletcher offers to enchant Tiel's armour
-- Mal attunes to the [[Cube]], sneakily - no-one notices
+- Mal attunes to the [[02 - Lore/2.4 Items/Cube]], sneakily - no-one notices
 - Eepy time
 - Everyone rolls perception in the night: we're woken by the walls shaking, banging, the sound of monsters roaring in the distance
 	- Mal rolls bad, but stumbles out of bed fully dressed
 	- We help Pan and Fletcher get their armour on and run outside
 	- Fugue, Fletcher, and Tiel fall down the stairs; Pan and Mal are obnoxious about it
 - In the courtyard, monsters are dragging people away
-	- We see Boru (sp?) grabbed by [[Void Matter]] and dragged into the hole
+	- We see Boru (sp?) grabbed by [[02 - Lore/2.2 The Void/Void Matter]] and dragged into the hole
 - Everyone rolls Initiative!
 	- The bard and the rogue go last. Thumbs up.
-	- There is an [[Aksonom]] and a [[Legiana]]
+	- There is an [[02 - Lore/2.5 Enemies/Aksonom]] and a [[02 - Lore/2.5 Enemies/Legiana]]
 	- Fugue casts Bless - it feels *bad*, like loss and grief, a terriblebad feeling that Helps You:) yayy
 	- Mal incapacitates the Aksonom for two (?) rounds; the lesbians escape!
 	- Pan summons their Echo: it's a greyscale copy of them, with flashes of bright blue
@@ -40,10 +41,10 @@ publish: true
 - [[Juno]] runs over, gives Pan a heal - his voice is raw, like he's been screaming for hours
 	- He's wearing a red scarf around his neck, every inch of skin covered
 	- His armour is covered in runes of some kind
-- Overhead, on the balcony, [[Venus]] has been doing a ritual to keep the dragon contained
+- Overhead, on the balcony, [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Venus]] has been doing a ritual to keep the dragon contained
 	- Mal asks her about it - it was a Dominate Monster spell, very high level stuff
 - Pan and Riza hit on each other some more, Pan scares Paris
-- Fugue recognises [[Eros]] from somewhere
+- Fugue recognises [[02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros]] from somewhere
 - Back to eep!
 - Fletcher dreams:
 	- Red eyes, darkness, something just warm enough to be alive
