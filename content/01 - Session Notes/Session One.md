@@ -3,19 +3,15 @@ publish: true
 title: Session One
 description: Notes from session one.
 created: 2026-01-31
-modified: 2026-02-04T10:43:28.466+00:00
+modified: 2026-02-18T10:04:46.453+00:00
 tags:
   - session-notes
   - complete
 cssclasses: ""
 ---
 
-> [!caption|text-center clean wfull]
->>|  |  |
->>| - | - |
->>| Date | 2026-01-31T00:00:00.000+00:00 |
-
-<p></p>
+>[!note|no-t no-i]
+>**Session date:** 31st January 2025
 
 # Character Introductions
 ## Pan
