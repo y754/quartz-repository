@@ -3,8 +3,6 @@ name: Malachi
 title: Malachi
 tags:
   - player-character
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:34:48
 publish: true
 ---
 > [!caption|center text-center clean c-p-med]
@@ -12,6 +10,9 @@ publish: true
 >> | Race | Class |
 >> | --- | --- |
 >> | Goliath | Rogue-Wizard |
+
+>[!infobox|right]
+>
 ## Description
 Built like a wolfhound, all long limbs and deep chest, Malachi stands at around 7’4” tall, looming over most people. Her skin is pale olivine grey-green, marked with malachite tattoos, scars, and body paint in blues and greens. Her hair is the colour of slate, her eyes green, dark enough to be mistaken for black in all but the brightest daylight.
 

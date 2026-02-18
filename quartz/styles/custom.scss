@@ -9,3 +9,9 @@
 h1, h2, h3, h4, h5, a, .explorer {
     font-family: var(--headerFont)!important;
 }
+body a.external, body footer a, body a.internal, body .breadcrumb-container .breadcrumb-element {
+    color: var(--lightningcss-light,#8a5cf5)var(--lightningcss-dark,#a68af9)!important;
+}
+body a.external:hover, body footer a:hover, body a.internal:hover, body .breadcrumb-container .breadcrumb-element > a:hover {
+    text-decoration: none!important;
+}

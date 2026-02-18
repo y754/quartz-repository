@@ -5,13 +5,10 @@ tags:
   - session-notes
   - complete
 date: 2026-01-31
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:42:25
 publish: true
 ---
-|              |              |
-| ------------ | ------------ |
-| Session date | `=this.date` | 
+>[!note|no-t no-i]
+>**Session date:** 31st January 2025
 
 # Character Introductions
 ## Pan
@@ -32,7 +29,7 @@ publish: true
 - we register with the receptionist and head through into the Guildhall
 - in the Guildhall:
 	- [[Juno Lux]], recently returned from his own expedition down the hole
-	- [[Kivia Rosenz,]] head of the Crownguard
+	- [[Kivia Rosenz]], head of the Crownguard
 	- [[Tiel]], halfling also recently returned from an expedition
 	- [[Eros]], human bard
 	- [[The Dzemaels#Pariston|Pariston Dzemael]], younger son of [[The Dzemaels#Lord Renoir|Renoir Dzemael]], another recent returnee

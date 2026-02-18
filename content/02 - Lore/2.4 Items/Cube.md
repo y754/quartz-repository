@@ -1,11 +1,15 @@
 ---
-name: Cube:)
-title: Cube:)
+title: Oblivion Focus
 description: sharran-cube
 tags:
   - lore
-creation date: 1970-01-01 01:00
-modification date: Tuesday 3rd February 2026 11:51:47
 publish: true
 ---
-my cube yayyy
+>[!caption|clean]
+>Artefact, Arcane focus. Requires attunement.
+
+This cube is sharp-edged and pitch black on all sides apart from one, which bears the symbol of Shar. The artefact appears to act as some kind of magical amplifier, most likely intended for use in large-scale rituals. It's densely packed with magical potential, perhaps only limited by the skill of the caster.
+Venus might want this back...
+
+>[!note|no-t no-i]
+>As a **Level 2 Wizard**, this artefact grants +1 to spell attacks and spell save DC.

@@ -83,7 +83,7 @@ strong {
 
 a {
   font-weight: $semiBoldWeight;
-  text-decoration: none;
+  text-decoration: none!important;
   transition: color 0.2s ease;
   color: var(--secondary);
 
@@ -94,6 +94,7 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
+    color: var(--lightningcss-light,#8a5cf5);
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
