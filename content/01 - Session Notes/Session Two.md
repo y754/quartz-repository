@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Two
-created: 2025-02-14
-modified: 2026-02-18T10:22:27.783+00:00
+created: 2026-02-14
+modified: 2026-02-18T10:28:16.535+00:00
 tags:
   - session-notes
   - complete

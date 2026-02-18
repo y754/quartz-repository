@@ -3,23 +3,24 @@ publish: true
 title: Index
 description: Homepage
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-18T10:19:35.000+00:00
+modified: 2026-02-18T10:27:30.335+00:00
 tags:
   - home
   - index
 cssclasses: ""
 ---
 
-> [!caption|center text-center clean c-p-med]
+> [!caption|text-center clean wfull]
 >> | Session                                            | Date              |
 > > | -------------------------------------------------- | ----------------- |
-> > | [[01 - Session Notes/Session Two\|Session Two]] | February 14, 2025 |
 > > | [[01 - Session Notes/Session One\|Session One]] | January 31, 2026  |
+> > | [[01 - Session Notes/Session Two\|Session Two]] | February 14, 2026 |
 > > 
 
-> [!caption|center text-center clean c-p-med]
->> | Upcoming | Date |
-> > | -------- | ---- |
+> [!caption|text-center clean wfull]
+>> | Upcoming                                               | Date              |
+> > | ------------------------------------------------------ | ----------------- |
+> > | [[01 - Session Notes/Session Three\|Session Three]] | February 28, 2026 |
 > > 
 
 # Player Characters
