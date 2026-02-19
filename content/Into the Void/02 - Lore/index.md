@@ -6,6 +6,7 @@ modified: 2026-02-19T10:39:23.168+00:00
 cssclasses: ""
 ---
 
+
 >[!note|no-t no-i center text-center]
 >The Collapse.
 >

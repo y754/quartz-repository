@@ -6,6 +6,7 @@ modified: 2026-02-19T10:43:18.121+00:00
 cssclasses: ""
 ---
 
+
 >[!note|no-t no-i center text-center]
 >*Witness*: the city of Sigil bathes in perpetual twilight, turning ever in on herself around the impossible, celestial peak of the Spire. A thousand doors, a million, as many as stars in the sky and eyes in the dark, as many as gods in the cosmos, opening and closing in an iridescent wash across the city's surface.
 >
@@ -23,9 +24,10 @@ cssclasses: ""
 >
 >*Survive*.
 
-|       |                                                                                     |
-| ----- | ----------------------------------------------------------------------------------- |
-| DM    | Ash                                                                                 |
-| Party | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
+|        |                                                                                     |
+| ------ | ----------------------------------------------------------------------------------- |
+| DM     | Ash                                                                                 |
+| Party  | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
+| System | D&D 5e                                                                              | 
 
 The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/)!

@@ -8,8 +8,9 @@ tags:
 cssclasses: ""
 ---
 
+
 > [!caption|center text-center clean c-p-med]
->![[z - Assets/malachi.png|300]]
+>![[z - Assets/malachi.png\|300]]
 >> | Race | Class |
 >> | --- | --- |
 >> | Goliath | Rogue-Wizard |

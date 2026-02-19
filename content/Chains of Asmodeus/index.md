@@ -6,10 +6,12 @@ modified: 2026-02-19T10:39:35.043+00:00
 cssclasses: ""
 ---
 
+
 >[!note|no-t no-i center text-center]
 >CoA summary
 
-|                |                                                                                              |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| DM             | Ria                                                                                           |
-| Party          | <ul><li>[[Forte]]</li><li>[[Jude]]</li><li>[[Lian]]</li><li>[[Tristan]]</li></ul> |
+|        |                                                                                   |
+| ------ | --------------------------------------------------------------------------------- |
+| DM     | Ria                                                                               |
+| Party  | <ul><li>[[Forte]]</li><li>[[Jude]]</li><li>[[Lian]]</li><li>[[Tristan]]</li></ul> |
+| System | D&D 5e                                                                            | 
