@@ -9,7 +9,6 @@ tags:
 cssclasses: ""
 ---
 
-
 >[!note|no-t no-i center text-center]
 >SoG summary
 
