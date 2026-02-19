@@ -1,23 +1,32 @@
 ---
-title: Index
-description: Homepage
+title: Homepage
+description: Session & lore notes for our D&D campaigns!
 tags: 
  - home
  - index
 publish: true
-title: index
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-05T18:00:28.000+00:00
-published: 2026-02-05T18:00:28.000+00:00
-cssclasses: ""
 ---
-> [!caption|center text-center clean c-p-med]
+# Campaigns
+## Chains of Asmodeus 
+- [[Chains of Asmodeus/index|Campaign summary]]
+## Into the Void
+- [[Into the Void/index|Campaign summary]]
+## Season of Ghosts
+- [[Season of Ghosts/index|Campaign summary]]
+## City of Doors
+- [[City of Doors/index|Campaign summary]]
+
+# Mini-campaigns
+## Feywild Friday
+## Weddingquest
+
+> [!caption|text-center clean wfull]
 >>```dataview
 >>TABLE WITHOUT ID file.link AS "Session", date AS "Date"
 >>FROM "01 - Session Notes" AND #complete
 >>```
 
-> [!caption|center text-center clean c-p-med]
+> [!caption|text-center clean wfull]
 >>```dataview
 >>TABLE WITHOUT ID file.link AS "Upcoming", date AS "Date"
 >>FROM "01 - Session Notes" AND !#index AND !#complete
@@ -28,15 +37,15 @@ cssclasses: ""
 LIST FROM "02 - Lore/2.1 - Characters/2.1.1 - Player Characters" AND !#index
 ```
 
+# Lore
+```dataview
+LIST FROM "02 - Lore" AND !#index AND !#npc AND !#player-character
+```
 
-- [ ] factions
-	- [ ] mercykillers
-	- [ ] harmonium
-	- [ ] senate & courts
-	- [ ] cult
-- [ ] sigil
-	- [ ] wards
-	- [ ] merchants
-- [ ] npcs
-- [ ] player characters
-- [ ] timeline
+# NPCs
+```dataview
+LIST FROM "02 - Lore/2.1 - Characters/2.1.2 - NPCs" AND !#index
+```
+
+# To Do
+![[To Do]]

@@ -3,6 +3,11 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+:root {
+    --headerFont: 'Carrois Gothic SC', sans-serif;
+    --titleFont: 'Carrois Gothic SC', sans-serif;
+    --bodyFont: 'Carrois Gothic', sans-serif;
+}
 
 html {
   scroll-behavior: smooth;

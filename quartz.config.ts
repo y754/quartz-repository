@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Into The Void",
+    pageTitle: "Tuoys<3",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Nova Square",
-        body: "Nova Square",
+        header: "Carrois Gothic SC",
+        body: "Carrois Gothic",
         code: "IBM Plex Mono",
       },
       colors: {

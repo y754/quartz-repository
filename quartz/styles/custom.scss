@@ -2,16 +2,19 @@
 
 // put your custom CSS here!
 
-:root {
-    --headerFont: 'Carrois Gothic SC', sans-serif!important;
-    --titleFont: 'Carrois Gothic SC', sans-serif!important;
-}
-h1, h2, h3, h4, h5, a, .explorer {
+body h1, body h2, body h3, body h4, body h5, body a, .explorer {
     font-family: var(--headerFont)!important;
+}
+body, body p, body blockquote {
+    font-family: var(--bodyFont)!important;
 }
 body a.external, body footer a, body a.internal, body .breadcrumb-container .breadcrumb-element {
     color: var(--lightningcss-light,#8a5cf5)var(--lightningcss-dark,#a68af9)!important;
 }
 body a.external:hover, body footer a:hover, body a.internal:hover, body .breadcrumb-container .breadcrumb-element > a:hover {
     text-decoration: none!important;
+}
+body table {
+    width: 100%!important;
+    font-family: var(--bodyFont)!important;
 }

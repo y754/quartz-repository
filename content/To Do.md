@@ -1,0 +1,3 @@
+- [ ] Fill out NPC descriptions
+- [ ] Add player character descriptions
+- [ ] Clean up notes
