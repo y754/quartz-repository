@@ -7,7 +7,6 @@ tags:
   - player-character
 cssclasses: ""
 ---
-
 > [!caption|center text-center clean c-p-med]
 >![[z Assets/pandemonium.png|300]]
 >> | Race | Class |
@@ -19,3 +18,4 @@ cssclasses: ""
 - Orange eyes
 - Freckles
 - Fuck-off big sword
+- Braid down to their hips

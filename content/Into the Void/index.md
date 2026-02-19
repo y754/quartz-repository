@@ -10,10 +10,6 @@ cssclasses: ""
 banner: /quartz-repository/z-Assets/holebanner.jpg
 bannerCitation: Iswanto Arif on Unsplash
 ---
-![[holebanner.jpg]]
-
-![[z Assets/holebanner.jpg]]
-
 >[!note|no-t no-i center text-center]
 >The Collapse.
 >
@@ -25,5 +21,5 @@ bannerCitation: Iswanto Arif on Unsplash
 | ------------ | -------------------------------------------------------------------------------------------- |
 | DM           | El                                                                                           |
 | System       | D&D 5e                                                                                       |
-| Party        | <ul><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fletcher]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fugue]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Malachi]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Pandemonium]]</li></ul> |
-| Last Session | [[Into the Void/01 - Session Notes/Session Two]]                                                                              | 
+| Party        | <ul><li>[[Fletcher]]</li><li>[[Fugue]]</li><li>[[Malachi]]</li><li>[[Pandemonium]]</li></ul> |
+| Last Session | [[02 Session Two]]                                                                              | 

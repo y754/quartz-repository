@@ -8,7 +8,6 @@ tags:
   - complete
 cssclasses: ""
 ---
-
 >[!note|no-t no-i]
 >**Session date:** 14th February 2026
 

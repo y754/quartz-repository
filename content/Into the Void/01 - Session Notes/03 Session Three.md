@@ -8,6 +8,5 @@ tags:
   - upcoming
 cssclasses: ""
 ---
-
 >[!note|no-t no-i]
 >**Session date:** 28th February 2026
