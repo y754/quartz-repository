@@ -18,3 +18,9 @@ body table {
     width: 100%!important;
     font-family: var(--bodyFont)!important;
 }
+.table-container > table {
+    margin: 0!important;
+}
+body th {
+    text-align: center;
+}

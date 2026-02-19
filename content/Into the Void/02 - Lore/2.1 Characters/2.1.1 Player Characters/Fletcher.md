@@ -9,11 +9,11 @@ cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
->![[z - Assets/fletcher.png|300]]
->*Quote*
+>![[z Assets/fletcher.png|300]]
 >> | Race | Class |
 >> | --- | --- |
 >> | Dwarf | Artificer |
 ## Description
 - Dark pink hair, olive skin and freckles
 - Long leather coat over scale mail
+- Being blackmailed into going down the hole

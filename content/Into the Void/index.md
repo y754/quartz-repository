@@ -1,11 +1,15 @@
 ---
 publish: true
 title: Into the Void
+tags:
+ - index
+ - voidquest
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:39:23.168+00:00
 cssclasses: ""
+banner: /content/z-Assets/holebanner.jpg
+bannerCitation: Iswanto Arif on Unsplash
 ---
-
 >[!note|no-t no-i center text-center]
 >The Collapse.
 >
@@ -13,7 +17,8 @@ cssclasses: ""
 >
 >Now, ten years later, it’s your turn. The Void Divers’ Guild is launching its 27th Official Expedition and is seeking capable adventurers to join. Whether drawn by the strange and compelling pull of curiosity, motivated to end the flow of otherworldly monsters spat up from the earth, or in search of something or someone who could be down there, you have decided to risk your life and brave the unforgiving depths of the Void.
 
-|                |                                                                                              |
-| -------------- | -------------------------------------------------------------------------------------------- |
-| DM             | El                                                                                           |
-| Party          | <ul><li>[[Into the Void/02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fletcher]]</li><li>[[Into the Void/02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Fugue]]</li><li>[[Into the Void/02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Malachi]]</li><li>[[Into the Void/02 - Lore/2.1 - Characters/2.1.1 - Player Characters/Pandemonium]]</li></ul> |
+|        |                                                                                              |
+| ------ | -------------------------------------------------------------------------------------------- |
+| DM     | El                                                                                           |
+| System | D&D 5e                                                                                       | 
+| Party  | <ul><li>[[Fletcher]]</li><li>[[Fugue]]</li><li>[[Malachi]]</li><li>[[Pandemonium]]</li></ul> |

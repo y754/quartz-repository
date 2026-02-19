@@ -9,8 +9,7 @@ cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
->![[z - Assets/pandemonium.png|300]]
->*Quote*
+>![[z Assets/pandemonium.png|300]]
 >> | Race | Class |
 >> | --- | --- |
 >> | Tiefling | Fighter |

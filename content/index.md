@@ -9,40 +9,14 @@ tags:
   - index
 cssclasses: ""
 ---
-# Campaigns
-## Chains of Asmodeus 
-- [[Chains of Asmodeus/index\|Campaign summary]]
-## Into the Void
-- [[Into the Void/index\|Campaign summary]]
-## Season of Ghosts
-- [[Season of Ghosts/index\|Campaign summary]]
-## City of Doors
-- [[City of Doors/index\|Campaign summary]]
+| Campaigns                                         |
+| ------------------------------------------------ |
+| [[Chains of Asmodeus/index\|Chains of Asmodeus]] |
+| [[Into the Void/index\|Into the Void]]           |
+| [[City of Doors/index\|City of Doors]]           |
+| [[Season of Ghosts/index\|Season of Ghosts]]     |
 
-# Mini-campaigns
-## Feywild Friday
-## Weddingquest
-
-> [!caption|text-center clean wfull]
->> | Session | Date |
-> > | ------- | ---- |
-> > 
-
-> [!caption|text-center clean wfull]
->> | Upcoming | Date |
-> > | -------- | ---- |
-> > 
-
-# Player Characters
-
-
-# Lore
-
-
-# NPCs
-
-
-# To Do
-- [ ] Fill out NPC descriptions
-- [ ] Add player character descriptions
-- [ ] Clean up notes
+| Mini-Campaigns     | 
+| ------------------ |
+| [[Feywild Friday]] |
+| [[Weddingquest]]   |

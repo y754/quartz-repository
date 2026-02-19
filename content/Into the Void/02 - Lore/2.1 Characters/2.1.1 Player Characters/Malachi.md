@@ -9,13 +9,11 @@ cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
->![[z - Assets/malachi.png|300]]
+>![[z Assets/malachi.png|300]]
 >> | Race | Class |
 >> | --- | --- |
 >> | Goliath | Rogue-Wizard |
 
->[!infobox|right]
->
 ## Description
 Built like a wolfhound, all long limbs and deep chest, Malachi stands at around 7’4” tall, looming over most people. Her skin is pale olivine grey-green, marked with malachite tattoos, scars, and body paint in blues and greens. Her hair is the colour of slate, her eyes green, dark enough to be mistaken for black in all but the brightest daylight.
 

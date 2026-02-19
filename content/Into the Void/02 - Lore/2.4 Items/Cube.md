@@ -9,7 +9,6 @@ tags:
   - item
 cssclasses: ""
 ---
-
 >[!caption|clean center center-text]
 >Artefact, Arcane focus. Requires attunement.
 
