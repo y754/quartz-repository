@@ -2,7 +2,7 @@
 publish: true
 title: City of Doors
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-19T19:58:35.000+00:00
+modified: 2026-02-19T20:29:29.094+00:00
 tags:
   - index
   - sigil
@@ -33,4 +33,4 @@ cssclasses: ""
 | System | D&D 5e                                                                              |
 | Party  | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
 
-The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/)!
+The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/Sigil)!
