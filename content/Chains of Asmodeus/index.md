@@ -3,6 +3,9 @@ publish: true
 title: Chains of Asmodeus
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:39:35.043+00:00
+tags:
+  - index
+  - asmodeus
 cssclasses: ""
 ---
 
@@ -13,5 +16,5 @@ cssclasses: ""
 |        |                                                                                   |
 | ------ | --------------------------------------------------------------------------------- |
 | DM     | Ria                                                                               |
-| Party  | <ul><li>[[Forte]]</li><li>[[Jude]]</li><li>[[Lian]]</li><li>[[Tristan]]</li></ul> |
 | System | D&D 5e                                                                            | 
+| Party  | <ul><li>[[Forte]]</li><li>[[Jude]]</li><li>[[Lian]]</li><li>[[Tristan]]</li></ul> |

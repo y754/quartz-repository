@@ -3,6 +3,9 @@ publish: true
 title: City of Doors
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:43:18.121+00:00
+tags:
+  - index
+  - sigil
 cssclasses: ""
 ---
 
@@ -27,7 +30,7 @@ cssclasses: ""
 |        |                                                                                     |
 | ------ | ----------------------------------------------------------------------------------- |
 | DM     | Ash                                                                                 |
+| System | D&D 5e                                                                              |
 | Party  | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
-| System | D&D 5e                                                                              | 
 
 The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/)!

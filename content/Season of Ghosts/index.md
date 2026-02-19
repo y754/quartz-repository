@@ -3,6 +3,9 @@ publish: true
 title: Season of Ghosts
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:40:18.081+00:00
+tags:
+  - index
+  - sog
 cssclasses: ""
 ---
 
@@ -13,5 +16,5 @@ cssclasses: ""
 |        |                                               |
 | ------ | --------------------------------------------- |
 | DM     | Ten                                           |
-| Party  | <ul><li></li><li></li><li></li><li></li></ul> |
 | System | Pf2e                                          | 
+| Party  | <ul><li></li><li></li><li></li><li></li></ul> |
