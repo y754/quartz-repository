@@ -10,16 +10,14 @@ tags:
 cssclasses: ""
 ---
 
-# Campaigns
-| Campaign                                         |
+| Campaigns                                         |
 | ------------------------------------------------ |
 | [[Chains of Asmodeus/index\|Chains of Asmodeus]] |
 | [[Into the Void/index\|Into the Void]]           |
 | [[City of Doors/index\|City of Doors]]           |
 | [[Season of Ghosts/index\|Season of Ghosts]]     |
 
-# Mini-campaigns
-| Campaign           |
+| Mini-Campaigns     | 
 | ------------------ |
 | [[Shorts & One-shots/Feywild Friday]] |
 | [[Shorts & One-shots/Weddingquest]]   |
