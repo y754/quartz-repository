@@ -8,6 +8,5 @@ tags:
 cssclasses: ""
 ---
 
-
 - halfling, went down the hole on the last expedition & came back up during a raid with [[Into the Void/02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston]]
 - didn't want to come back?

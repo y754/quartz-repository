@@ -8,7 +8,6 @@ tags:
 cssclasses: ""
 ---
 
-
 # Description
 Giant crane-like creature with a long neck and beak.
 
