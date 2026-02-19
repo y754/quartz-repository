@@ -9,6 +9,7 @@ tags:
 cssclasses: ""
 ---
 
+
 1. The Void moves around, rearranging itself, which makes it difficult to map
 2. Magic transportation doesn't work; no portals to the Abyss, no teleporting out
 3. The theory is that it's a series of different worlds stacked on top of each other

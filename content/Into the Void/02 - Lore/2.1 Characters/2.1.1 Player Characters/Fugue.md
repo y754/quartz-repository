@@ -8,6 +8,7 @@ tags:
 cssclasses: ""
 ---
 
+
 > [!caption|center text-center clean c-p-med]
 >![[z Assets/fugue.png|300]]
 >> | Race | Class |
