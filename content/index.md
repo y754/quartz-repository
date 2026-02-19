@@ -19,5 +19,5 @@ cssclasses: ""
 # Shorts & One-shots 
 |                    | 
 | ------------------ |
-| [[Shorts & One-shots/Feywild Friday]] |
-| [[Shorts & One-shots/Weddingquest]]   |
+| [[Feywild Friday]] |
+| [[Weddingquest]]   |
