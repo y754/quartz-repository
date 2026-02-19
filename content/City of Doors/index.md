@@ -1,10 +1,14 @@
 ---
 publish: true
 title: City of Doors
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-02-19T19:58:35.000+00:00
 tags:
- - index
- - sigil
+  - index
+  - sigil
+cssclasses: ""
 ---
+
 
 >[!note|no-t no-i center text-center]
 >*Witness*: the city of Sigil bathes in perpetual twilight, turning ever in on herself around the impossible, celestial peak of the Spire. A thousand doors, a million, as many as stars in the sky and eyes in the dark, as many as gods in the cosmos, opening and closing in an iridescent wash across the city's surface.
