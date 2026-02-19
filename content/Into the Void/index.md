@@ -1,18 +1,13 @@
 ---
 publish: true
 title: Into the Void
-tags:
- - index
- - voidquest
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:39:23.168+00:00
+tags:
+  - index
+  - voidquest
 cssclasses: ""
-banner: /quartz-repository/z-Assets/holebanner.jpg
-bannerCitation: Iswanto Arif on Unsplash
 ---
-![[holebanner.jpg]]
-
-![[z Assets/holebanner.jpg]]
 
 >[!note|no-t no-i center text-center]
 >The Collapse.
@@ -26,4 +21,4 @@ bannerCitation: Iswanto Arif on Unsplash
 | DM           | El                                                                                           |
 | System       | D&D 5e                                                                                       |
 | Party        | <ul><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fletcher]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fugue]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Malachi]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Pandemonium]]</li></ul> |
-| Last Session | [[Into the Void/01 - Session Notes/Session Two]]                                                                              | 
+| Last Session | [[Into the Void/01 - Session Notes/02 Session Two]]                                                                              | 

@@ -19,3 +19,4 @@ cssclasses: ""
 - Orange eyes
 - Freckles
 - Fuck-off big sword
+- Braid down to their hips
