@@ -5,15 +5,18 @@ created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-18T09:16:47.000+00:00
 tags:
   - player-character
+  - voidquest
 cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
 >![[z Assets/malachi.png|300]]
->> | Race | Class |
+>> |  |  |
 >> | --- | --- |
->> | Goliath | Rogue-Wizard |
-
+>> | **Race** | Goliath |
+>> | **Class** | Rogue/Wizard |
+>> | **Subclass** | Mastermind Bladesinger |
+>> | **Campaign** | Into the Void |
 ## Description
 Built like a wolfhound, all long limbs and deep chest, Malachi stands at around 7’4” tall, looming over most people. Her skin is pale olivine grey-green, marked with malachite tattoos, scars, and body paint in blues and greens. Her hair is the colour of slate, her eyes green, dark enough to be mistaken for black in all but the brightest daylight.
 

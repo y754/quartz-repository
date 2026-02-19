@@ -8,5 +8,11 @@ tags:
 cssclasses: ""
 ---
 
+|              |                 | 
+| ------------ | --------------- |
+| **Race**     | Human |
+| **Class**    | Bard          |
+| **Campaign** | Into the Void   |
+
 - human bard
 - seems niceys:)
