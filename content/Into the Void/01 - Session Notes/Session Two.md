@@ -9,9 +9,8 @@ tags:
 cssclasses: ""
 ---
 
-
 >[!note|no-t no-i]
->**Session date:** 2026-02-14T00:00:00.000+00:00
+>**Session date:** 14th February 2026
 
 # Session Two
 ## First Night

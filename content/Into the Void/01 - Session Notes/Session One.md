@@ -9,9 +9,8 @@ tags:
 cssclasses: ""
 ---
 
-
 >[!note|no-t no-i]
->**Session date:** 2026-01-31T00:00:00.000+00:00
+>**Session date:** January 31st 2026
 
 # Character Introductions
 ## Pan
