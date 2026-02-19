@@ -2,7 +2,7 @@
 publish: true
 title: Session Two
 created: 2026-02-14
-modified: 2026-02-18T10:28:16.535+00:00
+modified: 2026-02-19T10:19:48.108+00:00
 tags:
   - session-notes
   - complete
@@ -10,9 +10,10 @@ cssclasses: ""
 ---
 
 >[!note|no-t no-i]
->**Session date:** 14th February 2025
+>**Session date:** 2026-02-14T00:00:00.000+00:00
 
 # Session Two
+## First Night
 - Tiel offers Fletcher a listening ear if she ever needs to discuss family
 - Fugue goes to check in on her
 	- **Fletcher:** Can't help but feel this conversation has a point
@@ -22,6 +23,7 @@ cssclasses: ""
 - Fletcher offers to enchant Tiel's armour
 - Mal attunes to the [[02 - Lore/2.4 Items/Cube]], sneakily - no-one notices
 - Eepy time
+## Wake up
 - Everyone rolls perception in the night: we're woken by the walls shaking, banging, the sound of monsters roaring in the distance
 	- Mal rolls bad, but stumbles out of bed fully dressed
 	- We help Pan and Fletcher get their armour on and run outside
@@ -50,6 +52,7 @@ cssclasses: ""
 	- Red eyes, darkness, something just warm enough to be alive
 	- It makes her an offer of some kind, but she doesn't remember it when she wakes up
 	- She's in an understandably bad mood: Mal & Tiel ask if she's okay, she shrugs them off
+## Descent
 - At breakfast, no-one but Pan is really eating
 - Eros approaches Fugue, asks him some questions. Hits on him a little bit gaystyle
 - We get ready to descend - Venus gives us each a single-use, 24-hour Enhance Ability rune
@@ -70,6 +73,7 @@ cssclasses: ""
 	- Pan is here to get Elin
 	- Mal & Fletcher discuss the Void Matter, it's moving around inside its vial and pulling towards a specific point. We probably shouldn't follow it blindly, but on the other hand, we *do* want to find out what it's pointing towards.
 - We get our first view of the Void: broken gothic architecture, dim light, very reminiscent of the Underdark
+## The Void
 - The runes at the foot of the lift are protective, the mushrooms natural - similar to those found in the Underdark
 - We find a corpse with 7gp, nonmagical weapons and armour. The meat has mostly been eaten
 - Fletcher spots a passage in the moss by one of the walls - it leads out to a ledge,with a few broken-down houses and a garden
@@ -84,8 +88,9 @@ cssclasses: ""
 - End session!
 
 ### Mal's Questions:
-- do we think Juno is really Juno
+- do we think Juno is really Juno?
+- How did Sebastian get the void matter - does he have someone on the inside of the Diver's Guild?
+	- How did he know to use it as a poison?
 #### Tiel:
-- What's down there?
 - What did you see on the way out?
 - Are the attacks co-ordinated? Was there warning before it happened? Was there a signal?

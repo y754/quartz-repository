@@ -2,7 +2,7 @@
 publish: true
 title: Session One
 created: 2026-01-31
-modified: 2026-02-18T10:22:33.957+00:00
+modified: 2026-02-19T10:17:25.858+00:00
 tags:
   - session-notes
   - complete
@@ -10,7 +10,7 @@ cssclasses: ""
 ---
 
 >[!note|no-t no-i]
->**Session date:** 31st January 2025
+>**Session date:** 2026-01-31T00:00:00.000+00:00
 
 # Character Introductions
 ## Pan
