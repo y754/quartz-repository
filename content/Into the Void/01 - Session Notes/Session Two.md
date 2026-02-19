@@ -8,9 +8,17 @@ tags:
   - complete
 cssclasses: ""
 ---
-
 >[!note|no-t no-i]
->**Session date:** 2026-02-14T00:00:00.000+00:00
+>**Session date:** 14th February 2026
+
+>[!infobox|right]
+>### Mal's Questions:
+>- do we think Juno is really Juno?
+>- How did Sebastian get the void matter - does he have someone on the inside of the Diver's Guild?
+>	- How did he know to use it as a poison?
+>#### Tiel:
+>- What did you see on the way out?
+>- Are the attacks co-ordinated? Was there warning before it happened? Was there a signal?
 
 # Session Two
 ## First Night
@@ -86,11 +94,3 @@ cssclasses: ""
 	- Fugue Toll The Deads the second one
 	- Tiel Lesser Resto's Malachi
 - End session!
-
-### Mal's Questions:
-- do we think Juno is really Juno?
-- How did Sebastian get the void matter - does he have someone on the inside of the Diver's Guild?
-	- How did he know to use it as a poison?
-#### Tiel:
-- What did you see on the way out?
-- Are the attacks co-ordinated? Was there warning before it happened? Was there a signal?

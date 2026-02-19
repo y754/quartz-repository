@@ -17,8 +17,9 @@ bannerCitation: Iswanto Arif on Unsplash
 >
 >Now, ten years later, it’s your turn. The Void Divers’ Guild is launching its 27th Official Expedition and is seeking capable adventurers to join. Whether drawn by the strange and compelling pull of curiosity, motivated to end the flow of otherworldly monsters spat up from the earth, or in search of something or someone who could be down there, you have decided to risk your life and brave the unforgiving depths of the Void.
 
-|        |                                                                                              |
-| ------ | -------------------------------------------------------------------------------------------- |
-| DM     | El                                                                                           |
-| System | D&D 5e                                                                                       | 
-| Party  | <ul><li>[[Fletcher]]</li><li>[[Fugue]]</li><li>[[Malachi]]</li><li>[[Pandemonium]]</li></ul> |
+|              |                                                                                              |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| DM           | El                                                                                           |
+| System       | D&D 5e                                                                                       |
+| Party        | <ul><li>[[Fletcher]]</li><li>[[Fugue]]</li><li>[[Malachi]]</li><li>[[Pandemonium]]</li></ul> |
+| Last Session | [[Session Two]]                                                                              | 

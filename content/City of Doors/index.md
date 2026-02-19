@@ -29,4 +29,4 @@ tags:
 | System | D&D 5e                                                                              |
 | Party  | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
 
-The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/)!
+The primary site for the City of Doors campaign can be found [here](https://y754.github.io/city-of-doors/Sigil)!
