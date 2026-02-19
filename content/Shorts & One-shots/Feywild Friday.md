@@ -1,7 +1,12 @@
 ---
 publish: true
-created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-02-19T19:09:24.562+00:00
-cssclasses: ""
+tags:
+ - short
 ---
 
+| Player | Character | Class          |
+| ------ | --------- | -------------- |
+| El     | Herb      | Druid          |
+| Hannah | Ricky     | Bard/Barbarian |
+| Ria    | Wight     | Rogue          |
+| Ash    | Wolf      | Ranger         | 

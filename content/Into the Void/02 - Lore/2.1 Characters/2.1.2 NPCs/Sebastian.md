@@ -9,7 +9,6 @@ tags:
 cssclasses: ""
 ---
 
-
 #  Sebastian Nosurname
 ## Description
 - Head of the Apothecary's Guild yayyy

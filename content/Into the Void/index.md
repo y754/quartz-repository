@@ -1,13 +1,16 @@
 ---
 publish: true
 title: Into the Void
+tags:
+ - index
+ - voidquest
 created: 1970-01-01T01:00:00.000+01:00
 modified: 2026-02-19T10:39:23.168+00:00
-tags:
-  - index
-  - voidquest
 cssclasses: ""
+banner: /quartz-repository/z-Assets/holebanner.jpg
+bannerCitation: Iswanto Arif on Unsplash
 ---
+![[holebanner.jpg]]
 
 >[!note|no-t no-i center text-center]
 >The Collapse.

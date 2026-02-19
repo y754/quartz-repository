@@ -8,7 +8,6 @@ tags:
 cssclasses: ""
 ---
 
-
 > [!caption|center text-center clean c-p-med]
 >![[z Assets/fletcher.png|300]]
 >> | Race | Class |
