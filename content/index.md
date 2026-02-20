@@ -14,8 +14,8 @@ cssclasses: ""
 |                                                  | 
 | ------------------------------------------------ |
 | [[Chains of Asmodeus/index\|Chains of Asmodeus]] |
-| [[Into the Void/index\|Into the Void]]           |
 | [[City of Doors/index\|City of Doors]]           |
+| [[Into the Void/index\|Into the Void]]           |
 | [[Season of Ghosts/index\|Season of Ghosts]]     |
 # Shorts & One-shots 
 |                    | 
