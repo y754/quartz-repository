@@ -18,7 +18,8 @@ cssclasses: ""
 | [[Into the Void/index\|Into the Void]]           |
 | [[Season of Ghosts/index\|Season of Ghosts]]     |
 # Shorts & One-shots 
-|                    | 
-| ------------------ |
-| [[Shorts & One-shots/Feywild Friday]] |
-| [[Shorts & One-shots/Weddingquest]]   |
+|                            |
+| -------------------------- |
+| [[Shorts & One-shots/Feywild Friday]]         |
+| [[Shorts & One-shots/Weddingquest]]           |
+| [[Shorts & One-shots/Three-Ten to Wyrmridge]] | 
