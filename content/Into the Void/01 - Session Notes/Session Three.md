@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-08T17:16:04.684+00:00
+modified: 2026-03-08T17:27:20.102+00:00
 tags:
   - session-notes
   - complete
@@ -83,7 +83,7 @@ cssclasses: ""
 	- We kill Camilla and loot her body<3
 		- She turns into [[Into the Void/02 - Lore/2.2 The Void/Void Matter]] - it wriggles through the floorboards with great purpose; Fletcher tries to take a sample of it and it attempts to crawl up her arm, before settling down after a few minutes
 >[!infobox|right wikipedia]
-># Loot
+>##### Loot
 >|  |  |
 >| - | - |
 >| Apprentice Ring of Distance | Mal |
