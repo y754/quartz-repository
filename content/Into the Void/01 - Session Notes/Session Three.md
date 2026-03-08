@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-08T16:29:05.407+00:00
+modified: 2026-03-08T16:55:14.722+00:00
 tags:
   - session-notes
   - complete
@@ -106,5 +106,5 @@ cssclasses: ""
 ## Base Camp
 - After clearing the mansion, we head for base camp
 - On the way we meet a Tabaxi scout, Miette, who takes us the rest of the way
-- We also meet Cailan, the Diver's Guild's head researcher
+- We also meet Kaylin, the Diver's Guild's head researcher
 - We made it before the North team yaaay
