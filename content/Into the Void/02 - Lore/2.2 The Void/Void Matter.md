@@ -9,6 +9,8 @@ tags:
 cssclasses: ""
 ---
 
+- evil black goop:)
+- the undead in the Void appear to made of it, or possessed by it
 - a vial has gone missing from the diver's guild
 - Sebastian possibly used it to poison Rion
 - Fletcher stole it off Sebastian

@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-08T17:12:58.607+00:00
+modified: 2026-03-08T17:16:04.684+00:00
 tags:
   - session-notes
   - complete
@@ -57,14 +57,14 @@ cssclasses: ""
 		- Mal voice Interesting. thinking emoji
 ### First Floor
 #### Servant's Quarters
+>[!infobox|right]
+>*Keep an eye out and your head down, something big is going to happen at the Palace tonight.
+>Your friends, H&E.*
 - There's a guy hiding in the servant's quarters - this is our new best friend Vincent "Vinny" Vin
 - After we convince him we're here for a health inspection, he tells us he's pretty sure Camilla has made some kind of devil pact - she's got a blood ritual circle in the basement, which can be accessed using the password *All are welcome down where devils dwell*
 - He thinks Camilla is going to try to kill Kivia, but she hasn't actually made the attempt yet
 - He's clutching a note, hoping we'll forget about it; while Fugue, Pan and Mal distract him, Fletcher (invisible) yoinks it out of his hands
 - It's written in Thieves' Cant
->[!infobox|right]
->*Keep an eye out and your head down, something big is going to happen at the Palace tonight.
->Your friends, H&E.*
 - H & E are Hal and Elian, members of the Revolution against the King; this is what Kivia was out of town quashing when the Collapse happened
 - Camilla was supposed to be invited to the Gala but wasn't, Vinny doesn't know why
 - Hal and Elian got in because Lady [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Cordelia]] (the King's wife)'s pet painter is part of the Revolution and let them in - [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Venus & Vestra]]!
