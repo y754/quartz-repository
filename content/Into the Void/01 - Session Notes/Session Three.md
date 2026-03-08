@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Three
-created: 2026-02-28
-modified: 2026-02-18T10:28:44.464+00:00
+created: 1970-01-01T01:00:00.000+01:00
+modified: 2026-03-08T16:29:05.407+00:00
 tags:
   - session-notes
   - complete
@@ -19,6 +19,12 @@ cssclasses: ""
 	- Not sure about Elin's class or abilities
 - [[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fletcher]] warns Tiel not to trust [[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Malachi]] or [[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Pandemonium]]
 ## Undead Druid
+>[!infobox|right wikipedia]
+>|  |  |
+>| - | - |
+>| **Potion of Greater Healing** | 2/3 ingredients |
+>| **Potion of Healing** | 3/3 ingredients |
+>| **Potion of Fire Breath** | 4/5 ingredients |
 - The druid is washed-out, colour drained from her skin; she's clutching a single purple rose, and seems to be entirely focused on it
 - There are other roses growing in the gardens, but they're overgrown; the druid is tangled in thorny vines
 	- The rose is a Chromatic Rose, capable of offering protection from poison or an AoE poison attack
@@ -26,12 +32,6 @@ cssclasses: ""
 - She appears to be trapped in some kind of charm/magic effect, where she's suspended in a moment in time just prior to the Collapse
 - After talking with her for a while, the party decides to leave her in peace
 - We go herb-hunting in her garden
->[!infobox|right wikipedia]
->|  |  |
->| - | - |
->| **Potion of Greater Healing** | 2/3 ingredients |
->| **Potion of Healing** | 3/3 ingredients |
->| **Potion of Fire Breath** | 4/5 ingredients |
 - Coming back up through the hatch, we roll Con saves against the Void's downwards force: [[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fugue]] fails, and experiences a sharp pulse of pain in his head
 ## Spiderland
 - Moving on, we come to a tunnel covered in cobwebs; Pan burns them away, and Fugue pats out the flames as he follows
@@ -50,7 +50,7 @@ cssclasses: ""
 	- There is something big in the ballroom, but Mal can't get a good look at it - heat haze, something shimmery moving around
 - She goes back and gets the others: the plan is to lock the spiders in the entryway, then explore the rest of the mansion and come back to deal with the Big Scary
 - In the dining room, we meet another undead, Nina: Nina is a maid, cleaning on repeat as spiders rebuild their webs over and over
-	- She looks nervous, on the verge of tears, and is muttering to herself: *Mistress wasn't invited and she'll take it out on me, please don't tell [[Lady Camilla]], with Lady [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Kivia Rosenz\|Kivia]] out of town-*
+	- She looks nervous, on the verge of tears, and is muttering to herself: *Mistress wasn't invited and she'll take it out on me, please don't tell Lady [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Camilla]], with Lady [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Kivia Rosenz\|Kivia]] out of town-*
 	- She tells us that this house belongs to Camilla, Kivia's sister-in-law (brother's wife - Kivia doesn't have a husband)
 	- Camilla wanted to go to the Gala because Kivia *wasn't* going, and she was avoiding Kivia
 	- Kivia was out of town that night, putting down revolutionaries in the east of the kingdom
