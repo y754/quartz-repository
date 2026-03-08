@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-08T16:55:14.722+00:00
+modified: 2026-03-08T17:12:58.607+00:00
 tags:
   - session-notes
   - complete
@@ -77,10 +77,11 @@ cssclasses: ""
 - Letter in the desk: Camilla wasn't invited to the Gala because the King found out about her and Cordelia; Cordelia told her to get out of town, to go to the hot springs to the north and wait for her there
 - Camilla starts combat
 	- Mal attempts to grapple her. Pathetic4pathetic. We both roll sevens, but Cam is able to wriggle free on her turn
-	- Fletcher chucks a rock at her, which pisses her off; she's a very superior person for someone who hasn't managed to cast a spell yet
+	- Fletcher chucks a rock at her, which pisses her off; she's very superior for someone who hasn't managed to cast a spell yet
 	- Tiel Hold Persons her
 	- The mimic attacks Fugue, who casts Spirit Guardians - another W for helpful spells that feel bad
 	- We kill Camilla and loot her body<3
+		- She turns into [[Into the Void/02 - Lore/2.2 The Void/Void Matter]] - it wriggles through the floorboards with great purpose; Fletcher tries to take a sample of it and it attempts to crawl up her arm, before settling down after a few minutes
 >[!infobox|right wikipedia]
 ># Loot
 >|  |  |
