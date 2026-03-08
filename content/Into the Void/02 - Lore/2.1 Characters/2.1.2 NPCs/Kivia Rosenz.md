@@ -8,6 +8,7 @@ tags:
 cssclasses: ""
 ---
 
-
-- head of the crownguard
-- hates pan:(
+# Kivia Rosenz
+- Head of the [[Crownguard]]
+- Was out of town when the Collapse happened, quashing revolutionary action to the East of the Kingdom
+- Her brother was married to Lady [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Camilla]], who was involved with the King's wife [[Into the Void/02 - Lore/2.1 Characters/2.1.2 NPCs/Cordelia]]
