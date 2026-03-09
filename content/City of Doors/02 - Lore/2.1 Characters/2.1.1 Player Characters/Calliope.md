@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-09T16:58:48.015+00:00
+modified: 2026-03-09T17:03:10.368+00:00
 tags:
   - player-character
   - sigil
@@ -9,7 +9,7 @@ cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
->![[z Assets/callie.png\|300]]
+>![[z Assets/calliope.png|300]]
 >> |  |  |
 >> | --- | --- |
 >> | **Race** | Kalashtar |

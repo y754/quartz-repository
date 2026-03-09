@@ -2,7 +2,7 @@
 publish: true
 title: City of Doors
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-05T09:29:05.175+00:00
+modified: 2026-03-09T17:02:41.305+00:00
 tags:
   - index
   - sigil
@@ -31,6 +31,6 @@ cssclasses: ""
 | ------ | ----------------------------------------------------------------------------------- |
 | DM     | Ash                                                                                 |
 | System | D&D 5e                                                                              |
-| Party  | <ul><li>[[Calliope]]</li><li>[[Calyx]]</li><li>[[Ix]]</li><li>[[Jonquil]]</li></ul> |
+| Party  | <ul><li>[[City of Doors/02 - Lore/2.1 Characters/2.1.1 Player Characters/Calliope]]</li><li>[[City of Doors/02 - Lore/2.1 Characters/2.1.1 Player Characters/Calyx]]</li><li>[[City of Doors/02 - Lore/2.1 Characters/2.1.1 Player Characters/Ix]]</li><li>[[City of Doors/02 - Lore/2.1 Characters/2.1.1 Player Characters/Jonquil]]</li></ul> |
 
 The primary site for the City of Doors campaign is under construction:)
