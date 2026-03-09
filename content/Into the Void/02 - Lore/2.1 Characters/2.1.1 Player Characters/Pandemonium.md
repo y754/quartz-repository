@@ -6,6 +6,7 @@ modified: 2026-02-03T19:11:12.000+00:00
 tags:
   - player-character
   - voidquest
+  - zhent
 cssclasses: ""
 ---
 
