@@ -34,7 +34,7 @@ cssclasses: ""
 	- [[Into the Void/Lore/Characters/NPCs/Kivia Rosenz]], head of the Crownguard
 	- [[Into the Void/Lore/Characters/NPCs/Tiel]], halfling also recently returned from an expedition
 	- [[Into the Void/Lore/Characters/NPCs/Eros]]], human bard
-	- [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Pariston\|Pariston Dzemael]], younger son of [[Into the Void/02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Lord Renoir\|Renoir Dzemael]], another recent returnee
+	- [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Pariston\|Pariston Dzemael]], younger son of [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Lord Renoir\|Renoir Dzemael]], another recent returnee
 	- [[Into the Void/Lore/Characters/NPCs/Riza]], red-eyed woman with scars
 - Pan goes and antagonises Kivia for a bit
 	- Notices Juno's eyes are animalistic

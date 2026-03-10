@@ -19,4 +19,4 @@ cssclasses: ""
 | [[Into the Void/Lore/Characters/NPCs/Tiel]]                     |
 | [[Into the Void/Lore/Characters/NPCs/Riza]]                     |
 | [[Into the Void/Lore/Characters/NPCs/Eros]]                     |
-| The [[Into the Void/Lore/Characters/Player Characters/index\|party]]                             |
+| The party                    | 

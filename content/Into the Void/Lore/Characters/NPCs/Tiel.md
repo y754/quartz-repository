@@ -10,7 +10,7 @@ cssclasses: ""
 ---
 
 
-- halfling, went down the hole on the last expedition & came back up during a raid with [[Into the Void/02 - Lore/2.1 - Characters/2.1.2 - NPCs/The Dzemaels#Pariston\|Pariston]]
+- halfling, went down the hole on the last expedition & came back up during a raid with [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Pariston\|Paris]]
 - didn't want to come back?
 	- came down the hole to find her brother, Daniel
 	- Daniel went down as part of [[Into the Void/Lore/Characters/NPCs/Elin]]'s party

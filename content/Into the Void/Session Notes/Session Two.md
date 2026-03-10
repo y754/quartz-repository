@@ -49,13 +49,13 @@ cssclasses: ""
 	- Fletcher poisons it - not poison resistant
 	- Pan double-crits, does 94 damage in a single turn!
 - We did it we saved the lesbians
-- [[Juno]] runs over, gives Pan a heal - his voice is raw, like he's been screaming for hours
+- [[Into the Void/Lore/Characters/NPCs/Juno Lux\|Juno]] runs over, gives Pan a heal - his voice is raw, like he's been screaming for hours
 	- He's wearing a red scarf around his neck, every inch of skin covered
 	- His armour is covered in runes of some kind
-- Overhead, on the balcony, [[Into the Void/02 - Lore/2.1 - Characters/2.1.2 - NPCs/Venus]] has been doing a ritual to keep the dragon contained
+- Overhead, on the balcony, [[Into the Void/Lore/Characters/NPCs/Venus & Vestra\|Venus]] has been doing a ritual to keep the dragon contained
 	- Mal asks her about it - it was a Dominate Monster spell, very high level stuff
 - Pan and Riza hit on each other some more, Pan scares Paris
-- Fugue recognises [[Into the Void/02 - Lore/2.1 - Characters/2.1.2 - NPCs/Eros]] from somewhere
+- Fugue recognises [[Into the Void/Lore/Characters/NPCs/Eros]] from somewhere
 - Back to eep!
 - Fletcher dreams:
 	- Red eyes, darkness, something just warm enough to be alive
@@ -89,7 +89,7 @@ cssclasses: ""
 	- One of the houses has a letter from a Druidic scholar about being invited to see the Seventh Tree?
 	- Books about the history of Halia and King Halric
 - Out in the garden, there are two eepy lizard guys. They are covered in poisonous ooze:) beyond, on one of the ledges, is an undead
-	- We decide to attack the lizards - surprise round
+	- We decide to attack the [[Into the Void/Lore/Enemies/Pukei Pukei]] - surprise round
 	- They are indeed poisonous - Mal nearly dies to a poison attack
 	- Fletcher summons a Flaming Sphere, kills one
 	- Fugue Toll The Deads the second one

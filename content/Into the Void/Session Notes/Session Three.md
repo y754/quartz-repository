@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-08T17:27:20.102+00:00
+modified: 2026-03-09T17:39:57.576+00:00
 tags:
   - session-notes
   - complete
@@ -38,7 +38,7 @@ cssclasses: ""
 - As the tunnel opens up, we see a flash of light reflected on the wall, and the distant sound of shattering glass
 - The tunnel opens into a clearing, a ledge overlooking a mansion and a cobbled courtyard with arcane lamps illuminating the area; Mal spots some broken glass under one of the mansion windows
 - There are two routes down: stairs over a dark pit, or through a further tunnel covered in cobwebs. We go cobwebs.
-- After killing three [[Phase Spiders]], Fugue befriends the fourth and she comes with us
+- After killing three [[Into the Void/Lore/Enemies/Phase Spider]]s, Fugue befriends the fourth and she comes with us
 ## Mansion
 ### Exterior & Ground Floor
 - The courtyard contains a fountain without water, a couple of gold pieces in the bottom
