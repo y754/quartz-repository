@@ -14,7 +14,7 @@ cssclasses: ""
 - High-level wizard
 - Head of the Diver's Guild
 - Was involved with the revolution against King [[Into the Void/Lore/Characters/NPCs/Ronan]]
-- Painted for Lady [[Into the Void/Lore/Characters/NPCs/Cordelia]]
+- Painted for Lady [[Into the Void/Lore/Characters/NPCs/Cordelia du Vorros]]
 # Vestra Nerelle
 - Head of operations within the Void
 - Also involved with the revolution
