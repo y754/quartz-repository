@@ -95,3 +95,5 @@ cssclasses: ""
 	- Fugue Toll The Deads the second one
 	- Tiel Lesser Resto's Malachi
 - End session!
+
+<center><a href="obsidian://open?vault=content&file=Into%20the%20Void%2FSession%20Notes%2FSession%20One">Session One</a> | <a href="obsidian://open?vault=content&file=Into%20the%20Void%2FSession%20Notes%2FSession%20Three">Session Three</a></center>

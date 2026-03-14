@@ -121,3 +121,5 @@ cssclasses: ""
 	- They discuss the poison; Rion knew poisons, they theorise that it was something from down in the hole
 	- Mal is connecting dots
 - Everyone goes to bed yayyyy
+
+<div class="next-prev"><span class="prev"></span><span class="next">[[Into the Void/Session Notes/Session Two]]</span></div>
