@@ -20,5 +20,5 @@ cssclasses: ""
 | ------------ | -------------------------------------------------------------------------------------------- |
 | DM           | El                                                                                           |
 | System       | D&D 5e                                                                                       |
-| Party        | <ul><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fletcher]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Fugue]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Malachi]]</li><li>[[Into the Void/02 - Lore/2.1 Characters/2.1.1 Player Characters/Pandemonium]]</li></ul> |
-| Last Session | [[Into the Void/01 - Session Notes/Session Three]]                                                                              | 
+| Party        | <ul><li>[[Into the Void/Lore/Characters/Player Characters/Fletcher]]</li><li>[[Into the Void/Lore/Characters/Player Characters/Fugue]]</li><li>[[Into the Void/Lore/Characters/Player Characters/Malachi]]</li><li>[[Into the Void/Lore/Characters/Player Characters/Pandemonium]]</li></ul> |
+| Last Session | [[Into the Void/Session Notes/Session Three]]                                                                            |

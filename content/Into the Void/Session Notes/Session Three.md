@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-12T18:03:35.364+00:00
+modified: 2026-03-14T17:39:41.477+00:00
 tags:
   - session-notes
   - complete
@@ -17,7 +17,7 @@ cssclasses: ""
 	- Tiel's brother, **Daniel**, is the rogue
 	- There's also **Kestrel**, a fighter, and **Luis**, a caster
 	- Not sure about Elin's class or abilities
-- [[Into the Void/Lore/Characters/Player Characters/Fletcher]] warns Tiel not to trust [[Into the Void/Lore/Characters/Player Characters/Malachi]] or [[Into the Void/Lore/Characters/Player Characters/Pandemonium]]
+- [[Into the Void/Lore/Characters/Player Characters/Fletcher]] warns Tiel not to trust [[Into the Void/Lore/Characters/Player Characters/Malachi]], [[Into the Void/Lore/Characters/Player Characters/Pandemonium]] and [[Into the Void/Lore/Characters/Player Characters/Fugue]]
 ## Undead Druid
 >[!infobox|right wikipedia]
 >|  |  |
