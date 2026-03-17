@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-17T12:44:20.940+00:00
+modified: 2026-03-17T13:01:49.545+00:00
 tags:
   - session-notes
   - complete
@@ -182,3 +182,5 @@ At breakfast, we're given a map of an area to explore; Mal delegates map reading
 - Mal Ice Knifes her
 - Fletcher persuades her to stop
 - Her name is Teasel - she's spying on us for Hex
+
+[[Into the Void/Session Notes/Session Three]]

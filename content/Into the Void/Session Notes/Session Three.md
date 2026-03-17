@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-17T11:15:57.441+00:00
+modified: 2026-03-17T13:02:14.153+00:00
 tags:
   - session-notes
   - complete
@@ -109,3 +109,5 @@ cssclasses: ""
 - On the way we meet a Tabaxi scout, Miette, who takes us the rest of the way
 - We also meet Kaylin, the Diver's Guild's head researcher
 - We made it before the North team yaaay
+
+[[Into the Void/Session Notes/Session Two]] | [[Into the Void/Session Notes/Session Four]]
