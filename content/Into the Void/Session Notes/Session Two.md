@@ -52,7 +52,7 @@ cssclasses: ""
 - [[Into the Void/Lore/Characters/NPCs/Juno Lux\|Juno]] runs over, gives Pan a heal - his voice is raw, like he's been screaming for hours
 	- He's wearing a red scarf around his neck, every inch of skin covered
 	- His armour is covered in runes of some kind
-- Overhead, on the balcony, [[Into the Void/Lore/Characters/NPCs/Venus & Vestra\|Venus]] has been doing a ritual to keep the dragon contained
+- Overhead, on the balcony, [[Into the Void/Lore/Characters/NPCs/Venus & Vesta\|Venus]] has been doing a ritual to keep the dragon contained
 	- Mal asks her about it - it was a Dominate Monster spell, very high level stuff
 - Pan and Riza hit on each other some more, Pan scares Paris
 - Fugue recognises [[Into the Void/Lore/Characters/NPCs/Eros]] from somewhere
@@ -96,4 +96,4 @@ cssclasses: ""
 	- Tiel Lesser Resto's Malachi
 - End session!
 
-<center><a href="obsidian://open?vault=content&file=Into%20the%20Void%2FSession%20Notes%2FSession%20One">Session One</a> | <a href="obsidian://open?vault=content&file=Into%20the%20Void%2FSession%20Notes%2FSession%20Three">Session Three</a></center>
+[[Into the Void/Session Notes/Session One]] | [[Into the Void/Session Notes/Session Three]]

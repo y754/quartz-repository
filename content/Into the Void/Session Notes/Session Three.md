@@ -2,7 +2,7 @@
 publish: true
 title: Session Three
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-14T17:39:41.477+00:00
+modified: 2026-03-17T11:15:57.441+00:00
 tags:
   - session-notes
   - complete
@@ -67,7 +67,7 @@ cssclasses: ""
 - It's written in Thieves' Cant
 - H & E are Hal and Ellion, members of the Revolution against the King; this is what Kivia was out of town quashing when the Collapse happened
 - Camilla was supposed to be invited to the Gala but wasn't, Vinny doesn't know why
-- Hal and Elian got in because Lady [[Into the Void/Lore/Characters/NPCs/Cordelia du Vorros]] (the King's wife)'s pet painter is part of the Revolution and let them in - [[Into the Void/Lore/Characters/NPCs/Venus & Vestra]]!
+- Hal and Elian got in because Lady [[Into the Void/Lore/Characters/NPCs/Cordelia du Vorros]] (the King's wife)'s pet painter is part of the Revolution and let them in - [[Into the Void/Lore/Characters/NPCs/Venus & Vesta]]!
 - Vinny said that if we go to the Honeybee, the bar in the north of town, and ask about Venus and Vestra, we'd be able to make contact with them
 #### Master Bedroom
 - Lady Camilla, gazing at a portrait; she's an aasimar woman, not quite as sharp as in the portrait but still beautiful, and visibly undead

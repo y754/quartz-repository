@@ -10,12 +10,12 @@ tags:
 cssclasses: ""
 ---
 
-- Lead by [[Into the Void/Lore/Characters/NPCs/Venus & Vestra]] Nerelle - Venus manages the surface level work, while Vestra is down in the hole doing experiments.
+- Lead by [[Into the Void/Lore/Characters/NPCs/Venus & Vesta]] Nerelle - Venus manages the surface level work, while Vestra is down in the hole doing experiments.
 
 # Members
 |                              |
 | ---------------------------- |
-| [[Into the Void/Lore/Characters/NPCs/Venus & Vestra]] (Leaders) |
+| [[Into the Void/Lore/Characters/NPCs/Venus & Vesta]] (Leaders) |
 | [[Into the Void/Lore/Characters/NPCs/Tiel]]                     |
 | [[Into the Void/Lore/Characters/NPCs/Riza]]                     |
 | [[Into the Void/Lore/Characters/NPCs/Eros]]                     |
