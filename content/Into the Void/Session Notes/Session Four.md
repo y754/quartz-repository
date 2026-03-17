@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-17T12:30:46.852+00:00
+modified: 2026-03-17T12:44:20.940+00:00
 tags:
   - session-notes
   - complete
@@ -102,7 +102,7 @@ cssclasses: ""
 - **P:** Our family weren't that important until Luden's Rest.
 - **F:** If it's not too much to ask: why did you leave? You could have anything you want.
 - **P:** I don't want to talk about it.
-- _(**Detect Thoughts:** Feelings of jealousy, inferiority, of lack of recognition; he feels stupid about it) _
+- *(**Detect Thoughts:** Feelings of jealousy, inferiority, of lack of recognition; he feels stupid about it)*
 - **F:** That's fair. We all have our reasons.
 - **P:** Well, it means a lot that you came over and told me about my mother.
 - **F:** Of course.
@@ -139,8 +139,11 @@ cssclasses: ""
 - **E:** This has been [INCOMPREHENSIBLE]. Like I said, your secret's safe with me. Let me know if I can do anything for you. Oh, and a word of advice: if you want to hide your god, lying is a lot more effective than secrecy.
 ### Dreams
 **Malachi:** Before things went wrong, when your family was still together. Pyr, tiny in your arms, Shiax's hair brushing your cheek as she bends over him. The dream warms, empty nothingness reaching for you. Black tendrils seize Pyr, drag him from your arms. They form the shape of a Goliath, who drags Pyr wailing into the dark.
+
 **Fletcher:** You're at the pub with Rion, watching the bartender slide him a drink. Watching him knock it back, watching him turn purple as he struggles to breath, vomits blood. Two eyes watch you from the Void, sickly pink ringed in red, and a voice speaking words you can't make out.
+
 **Pan:** Dreaming of the sky, grass beneath your back, your family nearby. The sky is blue and studded with clouds - then it gets dark, and you're propelled to your feet, the only light glowing from your sword. You see Elin's eyes in the dark, laughing, mocking, always out of reach. Then they turn bright, flickering blue.
+
 **Fugue:** You hear distant music, a familiar figure beside you. An aasimar man, with grey eyes and long dark hair, delicately pointed ears - he's familiar, in a way you can't place, his face obscured by the dream. He leans in, places a hand on yours, his other one your chest. His fingers dig in, and in, beneath your ribs to squeeze your heart, the music swelling as life and blood flow back into your lifeless body.
 
 Wis saves all around! Fletcher wakes up with the vial of Void matter in her hand.
