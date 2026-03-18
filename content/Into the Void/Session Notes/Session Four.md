@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-18T11:07:40.422+00:00
+modified: 2026-03-18T11:13:34.706+00:00
 tags:
   - session-notes
   - complete
@@ -147,9 +147,8 @@ cssclasses: ""
 
 **Fugue:** You hear distant music, a familiar figure beside you. An aasimar man, with grey eyes and long dark hair, delicately pointed ears - he's familiar, in a way you can't place, his face obscured by the dream. He leans in, places a hand on yours, his other one your chest. His fingers dig in, and in, beneath your ribs to squeeze your heart, the music swelling as life and blood flow back into your lifeless body.
 
-Wis saves all around! Fletcher wakes up with the vial of Void matter in her hand.
-
-At breakfast, we're given a map of an area to explore; Mal delegates map reading to Fugue<3
+- Wis saves all around! Fletcher wakes up with the vial of Void matter in her hand.
+- At breakfast, we're given a map of an area to explore; Mal delegates map reading to Fugue<3
 ## The Honeybee
 - Perception checks in the area the map highlights: Pan and Fugue spot what looks like bits of leather hanging of signposts, moving in a wind that's not there - there are cloakers hanging around the entrance to the inn
 - After some scouting, we find two back entrances; Mal fails to open the cellar, but in her rattling she hears something skittering and creaturous down there. We go in through the back door instead<3
