@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-17T13:01:49.545+00:00
+modified: 2026-03-18T11:07:40.422+00:00
 tags:
   - session-notes
   - complete
@@ -27,19 +27,20 @@ cssclasses: ""
 	- She overhead [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Lord Renoir\|Renoir]] and [[Into the Void/Lore/Characters/NPCs/Sebastian]] arguing - it sounds like Sebastian might have had something to do with Renoir's eldest's murder
 		- Sebastian denied this vehemently; Vera isn't sure if Renoir fell for this
 		- He left, saying he had to find his wife
-	- There's been another murder in town - someone's been carved to bits in an alley, and it looks like the same killer who took out Art Dzemael
+	- There's been another murder in town - someone's been carved to bits in an alley, and it looks like the same killer who took out [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Art\|Art Dzemael]]
 	- Fletcher asks her to look into extratemporal statsis effects that might have been caused by the Collapse
 ### Fugue
-- [[Into the Void/Lore/Characters/Player Characters/Fugue]] attunes to his [[Medallion of Detect Thoughts]]
+- [[Into the Void/Lore/Characters/Player Characters/Fugue]] attunes to his [[Into the Void/Lore/Items/Medallion of Detect Thoughts]]
 ### Pan & Mal
 - [[Into the Void/Lore/Characters/Player Characters/Pandemonium]] comes to visit [[Into the Void/Lore/Characters/Player Characters/Malachi]] - tells her about Fugue mentioning the House of Grief
 - Mal shows them the Sharran artefact; mentions that she got it out of Venus's office. Notes that the wife of the most powerful man in town is now with the Sharrans, and Venus has wound up with a Sharran artefact.
 ### Dinner
 >[!infobox|right]
 >**Fugue:** Do you ever take it off? Not even for...
+>
 >**Malachi:** Not even for *what*, Fugue?
 - People (Fugue & [[Into the Void/Lore/Characters/NPCs/Tiel]]) nose into the situation with Malachi's armour; she doesn't reply
-- We talk to [[Kaylin]] about the Void:
+- We talk to [[Into the Void/Lore/Characters/NPCs/Kaylin]] about the Void:
 	- What's here on the first level is the remains of the capital (Korvald) and the Underdark that used to exist beneath
 	- It gets rearranged with each attack on the surface, making it difficult to navigate
 	- Because of the merging of Underdark and surface, a lot of the structures down in the Void are amalgamations of the original buildings
@@ -57,7 +58,7 @@ cssclasses: ""
 	- **Venus:** You're following someone down here, aren't you?
 	- **Mal:** :| SO THIS LEG.
 	- The leg belongs to one of the immortals - reuniting it with the rest of the body will cause that person to regenerate <- probably not good
-	- Venus also wants her cube \#hercube back: the soul tied to layer 6, [[Eilidh]], wants it badly
+	- Venus also wants her cube (hashtag hercube) back: the soul tied to layer 6, [[Eilidh]], wants it badly
 		- Flash of a woman with short ginger hair, strange clothes (& I ran out of time to get the rest of the description down)
 		- Our best option if she shows up is to kill her before she kills us - she's a powerful caster
 	- **Mal:** I'll keep an eye out for it. How come only you can contact Vesta?

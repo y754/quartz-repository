@@ -12,5 +12,7 @@ cssclasses: ""
 #  The Dzemael Family
 ## Lord Renoir
 ## Lady Ameliance
+## Art
+- Recently murdered
 ## Pariston
 - piece of shit wuppydog<3
