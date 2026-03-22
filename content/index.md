@@ -10,7 +10,9 @@ tags:
 cssclasses: ""
 ---
 
+Repository for keeping track of TTRPG campaign settings & notes!
 
+Check out Ten's repository <a href="https://lore.karma.computer/">here</a>!
 # Main Campaigns
 |                                                  |                                                |                              |
 | ------------------------------------------------ | ---------------------------------------------- | ---------------------------- |
@@ -19,8 +21,8 @@ cssclasses: ""
 | [[Into the Void/index\\|Into the Void]]          | Last session [[Into the Void/Session Notes/Session Four\|March 14th 2026]] | Next session April 11th 2026 |
 | [[Season of Ghosts/index\|Season of Ghosts]]     | Session zero TBA                               |                              |
 # Shorts & One-shots 
-|                            |
-| -------------------------- |
-| [[Shorts & One-shots/Feywild Friday]]         |
-| [[Shorts & One-shots/Weddingquest]]           |
-| [[Shorts & One-shots/Three-Ten to Wyrmridge]] | 
+| Name                       | DM    | Date          |
+| -------------------------- | ----- | ------------- |
+| [[Shorts & One-shots/Feywild Friday]]         | Jules | October 2025  |
+| [[Shorts & One-shots/Weddingquest]]           | Ria   | January 2026  |
+| [[Shorts & One-shots/Three-Ten to Wyrmridge]] | Ash   | February 2026 |
