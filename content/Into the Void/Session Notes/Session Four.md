@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T01:00:00.000+01:00
-modified: 2026-03-18T11:13:34.706+00:00
+modified: 2026-03-18T11:15:43.269+00:00
 tags:
   - session-notes
   - complete
@@ -139,7 +139,7 @@ cssclasses: ""
 - **Insight Check:** Eros is about to ask something else, but decides against it.
 - **E:** This has been [INCOMPREHENSIBLE]. Like I said, your secret's safe with me. Let me know if I can do anything for you. Oh, and a word of advice: if you want to hide your god, lying is a lot more effective than secrecy.
 ### Dreams
-**Malachi:** Before things went wrong, when your family was still together. Pyr, tiny in your arms, Shiax's hair brushing your cheek as she bends over him. The dream warms, empty nothingness reaching for you. Black tendrils seize Pyr, drag him from your arms. They form the shape of a Goliath, who drags Pyr wailing into the dark.
+**Malachi:** Before things went wrong, when your family was still together. Pyr, tiny in your arms, Shiax's hair brushing your cheek as she bends over him. The dream warps, empty nothingness reaching for you. Black tendrils seize Pyr, drag him from your arms. They form the shape of a Goliath, who drags Pyr wailing into the dark.
 
 **Fletcher:** You're at the pub with Rion, watching the bartender slide him a drink. Watching him knock it back, watching him turn purple as he struggles to breath, vomits blood. Two eyes watch you from the Void, sickly pink ringed in red, and a voice speaking words you can't make out.
 

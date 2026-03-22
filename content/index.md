@@ -10,13 +10,14 @@ tags:
 cssclasses: ""
 ---
 
+
 # Main Campaigns
-|                                                  | 
-| ------------------------------------------------ |
-| [[Chains of Asmodeus/index\|Chains of Asmodeus]] |
-| [[City of Doors/index\|City of Doors]]           |
-| [[Into the Void/index\|Into the Void]]           |
-| [[Season of Ghosts/index\|Season of Ghosts]]     |
+|                                                  |                                 |                              |
+| ------------------------------------------------ | ------------------------------- | ---------------------------- |
+| [[Chains of Asmodeus/index\|Chains of Asmodeus]] | Hiatus                          |                              |
+| [[City of Doors/index\|City of Doors]]           | Last session December 13th 2025 | Next session April 4th 2026  |
+| [[Into the Void/index\|Into the Void]]           | Last session March 14th 2026    | Next session April 11th 2026 |
+| [[Season of Ghosts/index\|Season of Ghosts]]     | Session zero TBA                |                              |
 # Shorts & One-shots 
 |                            |
 | -------------------------- |
