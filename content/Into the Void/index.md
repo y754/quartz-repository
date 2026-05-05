@@ -20,4 +20,4 @@ tags:
 | DM           | El                                                                                           |
 | System       | D\&D 5e                                                                                       |
 | Party        | <ul><li>[[Fletcher]]</li><li>[[Fugue]]</li><li>[[Malachi]]</li><li>[[Pandemonium]]</li></ul> |
-| Last Session | [[Session Four]]                                                                            |
+| Last Session | [[Session Six]]                                                                            |
