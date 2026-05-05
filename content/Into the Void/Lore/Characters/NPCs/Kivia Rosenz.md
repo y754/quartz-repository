@@ -6,10 +6,10 @@ modified: 2026-02-03T19:11:27.000+00:00
 tags:
   - npc
   - crownguard
-cssclasses: ""
 ---
 
 # Kivia Rosenz
-- Head of the [[Into the Void/Lore/Luden's Rest/Crownguard]]
+
+- Head of the [[Crownguard]]
 - Was out of town when the Collapse happened, quashing revolutionary action to the East of the Kingdom
-- Her brother was married to Lady [[Into the Void/Lore/Characters/NPCs/Camilla]], who was involved with the King's wife [[Into the Void/Lore/Characters/NPCs/Cordelia du Vorros]]
+- Her brother was married to Lady [[Camilla]], who was involved with the King's wife [[Cordelia du Vorros]]

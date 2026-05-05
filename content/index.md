@@ -7,22 +7,25 @@ modified: 2026-02-19T10:49:30.087+00:00
 tags:
   - home
   - index
-cssclasses: ""
 ---
 
 Repository for keeping track of TTRPG campaign settings & notes!
 
 Check out Ten's repository <a href="https://lore.karma.computer/">here</a>!
+
 # Main Campaigns
+
 |                                                  |                                                |                              |
 | ------------------------------------------------ | ---------------------------------------------- | ---------------------------- |
 | [[Chains of Asmodeus/index\|Chains of Asmodeus]] | Hiatus                                         |                              |
 | [[City of Doors/index\|City of Doors]]           | Last session December 13th 2025                | Next session April 4th 2026  |
-| [[Into the Void/index\\|Into the Void]]          | Last session [[Into the Void/Session Notes/Session Four\|March 14th 2026]] | Next session April 11th 2026 |
+| [[Into the Void/index\|Into the Void]]          | Last session [[Session Four\|March 14th 2026]] | Next session April 11th 2026 |
 | [[Season of Ghosts/index\|Season of Ghosts]]     | Session zero TBA                               |                              |
-# Shorts & One-shots 
+
+# Shorts & One-shots
+
 | Name                       | DM    | Date          |
 | -------------------------- | ----- | ------------- |
-| [[Shorts & One-shots/Feywild Friday]]         | Jules | October 2025  |
-| [[Shorts & One-shots/Weddingquest]]           | Ria   | January 2026  |
-| [[Shorts & One-shots/Three-Ten to Wyrmridge]] | Ash   | February 2026 |
+| [[Feywild Friday]]         | Jules | October 2025  |
+| [[Weddingquest]]           | Ria   | January 2026  |
+| [[Three-Ten to Wyrmridge]] | Ash   | February 2026 |

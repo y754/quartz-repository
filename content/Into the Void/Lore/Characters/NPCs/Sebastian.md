@@ -6,11 +6,11 @@ modified: 2026-02-03T19:11:34.000+00:00
 tags:
   - npc
   - apothecary
-cssclasses: ""
 ---
 
-#  Sebastian Westring
-- Head of the [[Into the Void/Lore/Luden's Rest/Apothecary's Guild]] yayyy
-- Probably had [[Into the Void/Lore/Characters/NPCs/Rion]] killed
+# Sebastian Westring
+
+- Head of the [[Apothecary's Guild]] yayyy
+- Probably had [[Rion]] killed
 - Schemey bastard<3
 - Has been in charge of the Apothecary's Guild since the Collapse

@@ -7,15 +7,15 @@ modified: 2026-02-03T19:12:03.000+00:00
 tags:
   - faction
   - apothecary
-cssclasses: ""
 ---
 
+- Lead by [[Sebastian|Sebastian Westring]]
 
-- Lead by [[Into the Void/Lore/Characters/NPCs/Sebastian\|Sebastian Westring]]
 # Members
+
 |                        |
 | ---------------------- |
-| [[Into the Void/Lore/Characters/NPCs/Sebastian]] (leader) | 
-| [[Into the Void/Lore/Characters/Player Characters/Fletcher]]           |
-| [[Into the Void/Lore/Characters/NPCs/Rion]]               |
-| [[Into the Void/Lore/Characters/NPCs/Cassiopeia]]         |
+| [[Sebastian]] (leader) |
+| [[Fletcher]]           |
+| [[Rion]]               |
+| [[Cassiopeia]]         |

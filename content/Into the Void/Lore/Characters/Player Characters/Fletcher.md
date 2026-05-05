@@ -7,19 +7,20 @@ tags:
   - player-character
   - voidquest
   - apothecary
-cssclasses: ""
 ---
 
-
 > [!caption|center text-center clean c-p-med]
->![[z Assets/fletcher.png|300]]
->> |  |  |
->> | --- | --- |
->> | **Race** | Dwarf |
->> | **Class** | Artificer |
->> | **Subclass** | Alchemist |
->> | **Campaign** | Into the Void |
+> ![[z Assets/fletcher.png|300]]
+>
+> > |  |  |
+> > | --- | --- |
+> > | **Race** | Dwarf |
+> > | **Class** | Artificer |
+> > | **Subclass** | Alchemist |
+> > | **Campaign** | Into the Void |
+
 ## Description
+
 - Dark pink hair, olive skin and freckles
 - Long leather coat over scale mail
 - Being blackmailed into going down the hole

@@ -6,11 +6,9 @@ modified: 2026-02-03T19:11:42.000+00:00
 tags:
   - npc
   - divers
-cssclasses: ""
 ---
 
-
-- halfling, went down the hole on the last expedition & came back up during a raid with [[Into the Void/Lore/Characters/NPCs/The Dzemaels#Pariston\|Paris]]
+- halfling, went down the hole on the last expedition & came back up during a raid with [[The Dzemaels#Pariston|Paris]]
 - didn't want to come back?
-	- came down the hole to find her brother, Daniel
-	- Daniel went down as part of [[Into the Void/Lore/Characters/NPCs/Elin]]'s party
+  - came down the hole to find her brother, Daniel
+  - Daniel went down as part of [[Elin]]'s party

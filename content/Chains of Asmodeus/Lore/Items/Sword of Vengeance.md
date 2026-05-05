@@ -1,10 +1,9 @@
 ---
 publish: true
-created: 1970-01-01T01:00:00.000+01:00
+created: 2026-04-07T16:33:16.211+01:00
 modified: 2026-03-09T16:30:16.700+00:00
 tags:
   - item
-cssclasses: ""
 ---
 
-- Cursed sword currently held by [[Chains of Asmodeus/Lore/Characters/Player Characters/Tristan]]
+- Cursed sword currently held by [[Tristan]]

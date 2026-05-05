@@ -6,11 +6,10 @@ modified: 2026-02-19T11:04:49.334+00:00
 tags:
   - index
   - shorts
-cssclasses: ""
 ---
 
 | Name              | Players                                                                | DM    | System |
 | ----------------- | ---------------------------------------------------------------------- | ----- | ------ |
-| Feywild Friday    | <ul><li>Ash</li><li>El</li><li>Hannah</li><li>Ria</li></ul>            | Jules | D&D 5e |
-| Weddingquest      | <ul><li>Ash</li><li>El</li><li>Jules</li><li>Ten</li><li>Vic</li></ul> | Ria   | D&D 5e |
-| 3:10 to Wyrmridge | <ul><li>El</li><li>Jules</li><li>Ria</li><li>Ten</li>                  | Ash   | D&D 5e | 
+| Feywild Friday    | <ul><li>Ash</li><li>El</li><li>Hannah</li><li>Ria</li></ul>            | Jules | D\&D 5e |
+| Weddingquest      | <ul><li>Ash</li><li>El</li><li>Jules</li><li>Ten</li><li>Vic</li></ul> | Ria   | D\&D 5e |
+| 3:10 to Wyrmridge | <ul><li>El</li><li>Jules</li><li>Ria</li><li>Ten</li>                  | Ash   | D\&D 5e |

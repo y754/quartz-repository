@@ -7,18 +7,20 @@ tags:
   - player-character
   - voidquest
   - zhent
-cssclasses: ""
 ---
 
 > [!caption|center text-center clean c-p-med]
->![[z Assets/pandemonium.png|300]]
->> |  |  |
->> | --- | --- |
->> | **Race** | Tiefling |
->> | **Class** | Fighter |
->> | **Subclass** | Echo Knight |
->> | **Campaign** | Into the Void |
+> ![[z Assets/pandemonium.png|300]]
+>
+> > |  |  |
+> > | --- | --- |
+> > | **Race** | Tiefling |
+> > | **Class** | Fighter |
+> > | **Subclass** | Echo Knight |
+> > | **Campaign** | Into the Void |
+
 ## Description
+
 - Sickly lilac skin
 - Bleached-white horns
 - Orange eyes
